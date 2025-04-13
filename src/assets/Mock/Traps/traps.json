@@ -1,0 +1,2769 @@
+[
+    {
+        "id": "1",
+        "name": "Exercício: Encolhimento de Trapézio com Barra",
+        "level": "Intermediário",
+        "execution_type": "Barra",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Barbell-barbell-silverback-shrug-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Barbell-barbell-silverback-shrug-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé com os pés na largura dos ombros, segurando a barra com as duas mãos à frente, um pouco além da largura dos ombros.",
+            "2. Dobre-se para frente nos quadris com uma leve flexão nos joelhos, mantendo suas costas retas.",
+            "3. Contraia suas omoplatas, como se estivesse tentando tocá-las uma na outra.",
+            "4. Solte o encolhimento de ombros."
+        ],
+        "what_is": [
+            "- Consiste em um exercício de musculação que visa trabalhar principalmente a região superior das costas, com foco no fortalecimento e desenvolvimento dos músculos trapézios.",
+            "- É realizado com o auxílio de uma barra, seja reta ou hexagonal.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em pé, com os pés na largura dos ombros e joelhos levemente flexionados.",
+            "Segure a barra com as mãos em posição pronada (palmas para baixo), mantendo uma pegada mais larga que a largura dos ombros.",
+            "Mantenha a coluna neutra, ombros relaxados e olhar para frente.",
+            "Eleve os ombros em direção às orelhas, contraindo os trapézios.",
+            "Pause brevemente no ponto máximo da contração e retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Desenvolve e fortalece os músculos trapézios, melhorando a estabilidade da cintura escapular.",
+            "- Contribui para a postura corporal, especialmente em atividades que exigem força na região das costas.",
+            "- Auxilia no equilíbrio muscular entre ombros, pescoço e parte superior das costas."
+        ],
+        "precautions": [
+            "- Evite usar cargas excessivas, o que pode comprometer a técnica e sobrecarregar a coluna cervical.",
+            "- Mantenha o core ativado durante o movimento para proteger a coluna lombar.",
+            "- Não incline o tronco para frente ou arqueie as costas durante a execução."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas cervicais, como hérnias de disco ou lesões nos trapézios, devem evitar ou adaptar o exercício.",
+            "- Pessoas com tensão crônica no pescoço ou ombros devem realizar o movimento com cautela."
+        ],
+        "substitutions": [
+            "- Remada alta com barra ou halteres.",
+            "- Encolhimento com halteres ou cabo.",
+            "- Elevação frontal com halteres."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente porção superior).",
+            "- Romboides.",
+            "- Peitoral menor (estabilização).",
+            "- Bíceps braquial (em menor intensidade, como sinergista)."
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Exercício: Encolhimento a 30 Graus com Cabo",
+        "level": "Iniciante",
+        "execution_type": "Máquina (Cabo)",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Cables-cable-30-degree-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Cables-cable-30-degree-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Use um acessório de pegada em ambos os lados do crossover. Com o acessório do cabo ajustado até ao fundo.",
+            "2. Pegue ambas as alças e certifique-se de que está centralizado na máquina. Deixe seus braços pendurados livremente.",
+            "3. Levante suas omoplatas para cima e em direção às suas orelhas. Deixe suas omoplatas retornarem à posição inicial."
+        ],
+        "what_is": [
+            "- É um exercício de musculação que utiliza um cabo ajustado a uma polia alta para trabalhar os músculos do dorso e braços.",
+            "- Consiste em puxar o cabo com as mãos em direção ao corpo, mantendo os cotovelos próximos.."
+        ],
+        "how_to_execute": [
+            "Ajuste a polia alta e fixe o cabo com uma barra ou triângulo.",
+            "Fique de pé, segurando o cabo com as mãos na largura dos ombros.",
+            "Incline o tronco levemente para frente, mantendo a coluna neutra.",
+            "Puxe o cabo em direção ao abdômen, flexionando os cotovelos.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Desenvolve força e hipertrofia no dorso.",
+            "- Melhora a postura corporal.",
+            "- Fortalece músculos estabilizadores da escápula.",
+            "- Auxilia no equilíbrio muscular entre costas e peitorais."
+        ],
+        "precautions": [
+            "- Evite usar carga excessiva para manter a técnica correta.",
+            "- Mantenha o tronco estável durante o movimento.",
+            "- Não arredonde as costas ao inclinar o tronco.",
+            "- Respeite a amplitude articular natural dos ombros."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões nos ombros ou problemas na coluna devem evitar.",
+            "- Pessoas com tendinite ou bursite no ombro podem ter desconforto.",
+            "- Consulte um profissional antes de realizar em casos de dor crônica."
+        ],
+        "substitutions": [
+            "- Remada baixa com halteres.",
+            "- Remada curvada com barra.",
+            "- Pulley frontal.",
+            "- Remada unilateral com cabo."
+        ],
+        "related_muscles": [
+            "- Grande dorsal (principal).",
+            "- Romboides.",
+            "- Trapézio (porção média).",
+            "- Bíceps braquial.",
+            "- Braquial.",
+            "- Peitoral menor (estabilização)."
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Exercício: Remada Alta com Barra",
+        "level": "Avançado",
+        "execution_type": "Barra",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Barbell-barbell-upright-row-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Barbell-barbell-upright-row-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Pegue uma empunhadura dupla, aproximadamente na largura dos ombros.",
+            "2. Puxe os cotovelos direto para o teto. Tente levar a barra até o nível do queixo ou um pouco mais alto."
+        ],
+        "what_is": [
+            "- Consiste em um exercício de força que envolve a musculatura dorsal, sendo realizado com o auxílio de uma barra e exigindo movimentos de tração para trabalhar os músculos superiores do corpo."
+        ],
+        "how_to_execute": [
+            "Posicione-se em pé, segurando a barra com as mãos afastadas além da largura dos ombros, utilizando uma pegada pronada (palmas voltadas para frente).",
+            "Mantenha os pés alinhados aos quadris, joelhos levemente flexionados e tronco inclinado para frente, formando aproximadamente 45 graus com o chão.",
+            "Puxe a barra em direção ao abdômen superior ou esterno, mantendo os cotovelos próximos ao corpo.",
+            "Retorne à posição inicial de forma controlada, estendendo totalmente os braços."
+        ],
+        "why_do_it": [
+            "- Promove fortalecimento e hipertrofia da musculatura dorsal, melhora a postura e contribui para o equilíbrio muscular do corpo, além de auxiliar na prevenção de lesões por descompensação muscular."
+        ],
+        "precautions": [
+            "- Evite arquear excessivamente a região lombar durante a execução.",
+            "- Mantenha o core ativado para estabilizar o tronco.",
+            "- Não utilize pesos excessivos que comprometam a amplitude ou a qualidade do movimento."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna lombar, ombros ou cotovelos devem evitar sua realização sem orientação profissional.",
+            "- Gestantes também devem avaliar cuidadosamente a viabilidade do movimento.."
+        ],
+        "substitutions": [
+            "- Remada curvada com halteres.",
+            "- Remada baixa no pulley.",
+            "- Remada unilateral com haltere."
+        ],
+        "related_muscles": [
+            "- Grande dorsal (latíssimo do dorso).",
+            "- Romboides.",
+            "- Trapézio.",
+            "- Bíceps braquial.",
+            "- Posterior do deltóide."
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Exercício: Encolhimento com Halteres",
+        "level": "Novato",
+        "execution_type": "Halteres",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Dumbbells-dumbbell-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Dumbbells-dumbbell-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé com dois halteres. Puxe suas omoplatas para cima. Dê uma compressão de um segundo no topo."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício que visa isolar e trabalhar a parte superior das costas, especificamente os músculos responsáveis pela retração escapular.",
+            "- É realizado com o uso de halteres e se concentra em movimentos controlados.."
+        ],
+        "how_to_execute": [
+            "Sente-se em um banco com encosto reto ou inclinado, segurando um haltere em cada mão.",
+            "Deixe os braços estendidos na direção do chão, com as palmas das mãos voltadas uma para a outra (posição neutra).",
+            "Mantenha o tronco ereto e contraia as omoplatas, puxando os halteres lateralmente para cima.",
+            "Eleve os halteres até os cotovelos estarem alinhados com os ombros.",
+            "Retorne à posição inicial de forma controlada, sem soltar totalmente a tensão muscular."
+        ],
+        "why_do_it": [
+            "- Promove o fortalecimento dos músculos da parte superior das costas.",
+            "- Melhora a postura ao incentivar a retração escapular.",
+            "- Auxilia no equilíbrio muscular, prevenindo descompensações.",
+            "- Contribui para a definição estética da região dorsal."
+        ],
+        "precautions": [
+            "- Evite usar pesos excessivos que comprometam a execução técnica.",
+            "- Mantenha o tronco estável durante todo o movimento.",
+            "- Não arqueie as costas ou use momentum para levantar os halteres.",
+            "- Respeite a amplitude articular natural para evitar lesões."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões nos ombros ou na coluna devem consultar um profissional antes de realizar o exercício.",
+            "- Pessoas com problemas graves nas articulações dos ombros podem precisar adaptar ou evitar o movimento.",
+            "- Gestantes ou pessoas com condições específicas devem buscar orientação médica."
+        ],
+        "substitutions": [
+            "- Remada baixa com barra ou polia.",
+            "- Remada unilateral com haltere.",
+            "- Crucifixo inverso no crossover ou máquina de musculação.",
+            "- Remada com elástico ou fita resistiva."
+        ],
+        "related_muscles": [
+            "- Primários: Romboides, trapézio (parte média).",
+            "- Secundários: Deltóides posteriores, bíceps braquial.",
+            "- Estabilizadores: Rotadores externos do ombro, músculos eretores da espinha."
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Exercício: Variação Um do Alongamento dos Trapézios",
+        "level": "Novato",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-traps-stretch-variation-1-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-traps-stretch-variation-1-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique de pé, com os pés afastados na largura dos ombros.",
+            "2. Coloque sua mão esquerda na cabeça e puxe delicadamente a cabeça para baixo em direção ao seu ombro esquerdo. Em seguida, retorne ao ponto central.",
+            "3. Repita, usando sua mão direita puxando em direção ao seu ombro direito."
+        ],
+        "what_is": [
+            "- Um exercício de alongamento que visa estender e relaxar os músculos trapézios, localizados na região superior das costas e pescoço."
+        ],
+        "how_to_execute": [
+            "Sente-se ou fique em pé com a postura ereta.",
+            "Coloque uma das mãos sobre a cabeça, levando-a suavemente para o lado oposto ao ombro.",
+            "Mantenha o ombro do lado que está sendo alongado relaxado e evite encolhê-lo.",
+            "Segure a posição por 15-30 segundos e retorne à posição inicial.",
+            "Repita do outro lado."
+        ],
+        "why_do_it": [
+            "- Ajuda a reduzir tensões musculares acumuladas, melhora a mobilidade do pescoço e pode prevenir desconfortos causados por posturas inadequadas."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos ou forçar além do conforto.",
+            "- Não realize o exercício se sentir dor intensa ou formigamento.",
+            "- Mantenha a respiração constante durante o alongamento."
+        ],
+        "restrictions": [
+            "- Não é recomendado para pessoas com lesões graves no pescoço, hérnias cervicais ou problemas neurológicos sem orientação profissional."
+        ],
+        "substitutions": [
+            "- Alongamento lateral do pescoço com assistência manual.",
+            "- Rotação suave da cabeça para cada lado.",
+            "- Uso de faixas elásticas para auxiliar no alongamento."
+        ],
+        "related_muscles": [
+            "- Trapézio (partes superior, média e inferior).",
+            "- Esternocleidomastóideo.",
+            "- Escalenos.",
+            "- Peitoral menor (indiretamente)."
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Exercício: Elevação de Pressão Pike",
+        "level": "Intermediário",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-elevated-pike-press-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-elevated-pike-press-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Use um banco ou um objeto para elevar seus pés.",
+            "2. Abaixe a cabeça em direção ao chão, dobrando os cotovelos",
+            "3. Empurre através das suas mãos e retorne à posição inicial de pico.",
+            "4. Repetir"
+        ],
+        "what_is": [
+            "- Trata-se de um exercício que combina força e equilíbrio, realizado em posição de prancha com os braços estendidos.",
+            "- Ele envolve a elevação dos quadris para formar um formato de \"V\" invertido, desafiando tanto a resistência muscular quanto a coordenação corporal.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em uma prancha alta (posição de flexão), com as mãos alinhadas aos ombros e os pés afastados na largura dos quadris.",
+            "Mantenha o core contraído e eleve os quadris em direção ao teto, esticando as pernas e formando um ângulo agudo com o corpo.",
+            "Volte lentamente à posição inicial, controlando o movimento sem arquear as costas.",
+            "Repita conforme a quantidade de repetições ou tempo determinado."
+        ],
+        "why_do_it": [
+            "- Fortalece músculos importantes para atividades funcionais e esportivas.",
+            "- Melhora a mobilidade articular e alongamento posterior da cadeia muscular.",
+            "- Desenvolve estabilidade do core e equilíbrio.",
+            "- Auxilia no condicionamento físico geral."
+        ],
+        "precautions": [
+            "- Evite curvar excessivamente a coluna cervical; mantenha o pescoço alinhado com a coluna.",
+            "- Não force o movimento se houver rigidez nos músculos posteriores da coxa ou lombar.",
+            "- Mantenha a ativação do core durante toda a execução para evitar sobrecarga na região lombar."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões recentes nos ombros, punhos ou coluna devem evitar este exercício.",
+            "- Pessoas com hipertensão ou problemas circulatórios devem consultar um profissional antes de praticá-lo.",
+            "- Gestantes devem adaptar ou evitar, dependendo do estágio da gravidez."
+        ],
+        "substitutions": [
+            "- Prancha alta estática.",
+            "- Flexão de braço tradicional.",
+            "- Prancha lateral com rotação.",
+            "- Exercícios isométricos como a prancha baixa."
+        ],
+        "related_muscles": [
+            "- Primários: Deltóides, tríceps e músculos do core (reto abdominal, oblíquos).",
+            "- Secundários: Isquiotibiais, glúteos, panturrilhas e músculos eretores da espinha."
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Exercício: Elevação Inclinada com Kettlebell",
+        "level": "Iniciante",
+        "execution_type": "Kettlebell",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-incline-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-incline-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Apoie-se na parte de trás do banco, com os pés firmes no chão e os braços pendurados ao lado.",
+            "2. Segurando a kettlebell com as duas mãos, engaje suas omoplatas, como se estivesse tentando encostá-las. Solte o encolhimento de ombros."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício funcional que envolve o levantamento de um peso (kettlebell) em um movimento inclinado, ativando múltiplos grupos musculares.",
+            "- A dinâmica combina força, estabilidade e coordenação.."
+        ],
+        "how_to_execute": [
+            "Posicione-se de pé, com os pés afastados na largura dos ombros.",
+            "Segure a kettlebell com uma ou duas mãos, dependendo da variação escolhida.",
+            "Inicie o movimento com o peso próximo ao corpo, mantendo a postura ereta.",
+            "Eleve o peso em linha inclinada até a altura do ombro ou peito, utilizando a força dos membros superiores e inferiores.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Fortalece músculos importantes para atividades diárias e esportivas.",
+            "- Melhora a estabilidade articular e o equilíbrio corporal.",
+            "- Promove ganhos de força funcional e resistência muscular.",
+            "- Auxilia no desenvolvimento da coordenação motora."
+        ],
+        "precautions": [
+            "- Mantenha a coluna neutra durante todo o movimento.",
+            "- Evite realizar o exercício com pesos excessivos que comprometam a execução técnica.",
+            "- Não arqueie as costas ao elevar o peso.",
+            "- Realize o movimento de forma controlada, evitando balanços bruscos."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões recentes nos ombros, costas ou punhos devem evitar ou adaptar o exercício.",
+            "- Pessoas com problemas articulares graves devem consultar um profissional antes de executar.",
+            "- Não é recomendado para quem tem dificuldades de manter uma postura estável."
+        ],
+        "substitutions": [
+            "- Halteres podem ser utilizados como alternativa ao peso original.",
+            "- Movimentos similares, como remadas inclinadas ou elevações frontais, podem substituir o exercício.",
+            "- Versões com elástico resistivo também são opções viáveis."
+        ],
+        "related_muscles": [
+            "- Primários: Deltóides (principalmente porção anterior), trapézio e bíceps.",
+            "- Secundários: Músculos estabilizadores do core, serrátil anterior e extensores do quadril.",
+            "- Estabilizadores: Músculos da panturrilha, glúteos e rotadores do ombro."
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Exercício: Encolhimentos em Pé na Máquina Smith",
+        "level": "Iniciante",
+        "execution_type": "Máquina",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-standing-smith-machine-shrugs-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Posicione a barra em um degrau mais baixo de modo que, quando segurada, seus braços estejam totalmente estendidos e suas costas retas.",
+            "2. Segure na largura dos ombros, levante a barra com os seus ombros e faça uma pausa na posição contraída.",
+            "3. Abaixe lentamente a barra de volta à posição inicial."
+        ],
+        "what_is": [
+            "- Consiste em um exercício de força realizado na máquina Smith, projetado para trabalhar grupos musculares específicos por meio de movimentos controlados.",
+            "- É caracterizado pela execução em posição ereta, com foco na contração e alongamento muscular.."
+        ],
+        "how_to_execute": [
+            "Posicione-se na máquina Smith com os pés alinhados à largura dos ombros.",
+            "Ajuste a barra à altura adequada, garantindo que ela esteja acessível para a execução.",
+            "Mantenha o tronco ereto, joelhos levemente flexionados e abdômen contraído.",
+            "Realize o movimento de descida, flexionando os joelhos até atingir a amplitude desejada.",
+            "Retorne à posição inicial de forma controlada, empurrando a barra para cima."
+        ],
+        "why_do_it": [
+            "- Fortalece músculos importantes para estabilização e força.",
+            "- Melhora a postura e a coordenação motora.",
+            "- Auxilia no desenvolvimento de potência e equilíbrio muscular."
+        ],
+        "precautions": [
+            "- Evite arquear excessivamente as costas durante a execução.",
+            "- Mantenha os movimentos lentos e controlados para evitar lesões.",
+            "- Certifique-se de que a máquina esteja bem ajustada antes de iniciar."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nas articulações dos joelhos ou coluna devem evitar ou adaptar o exercício.",
+            "- Pessoas com hipertensão devem consultar um médico antes de realizar movimentos com cargas elevadas."
+        ],
+        "substitutions": [
+            "- Agachamentos livres.",
+            "- Agachamentos com halteres.",
+            "- Leg press."
+        ],
+        "related_muscles": [
+            "- Quadríceps.",
+            "- Glúteos.",
+            "- Isquiotibiais.",
+            "- Panturrilhas.",
+            "- Abdominais (para estabilização)."
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Exercício: Variação Três do Alongamento dos Trapézios",
+        "level": "Novato",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-traps-stretch-variation-3-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-traps-stretch-variation-3-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé com os pés afastados na largura dos ombros.",
+            "2. Acene com a cabeça para frente, trazendo seu queixo até o peito.",
+            "3. Você vai sentir o alongamento em seu pescoço."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício que visa alongar os músculos trapézios, localizados na região do pescoço, ombros e parte superior das costas.",
+            "- Este movimento é realizado para promover relaxamento e melhorar a mobilidade.."
+        ],
+        "how_to_execute": [
+            "Sente-se ou fique em pé com a coluna ereta.",
+            "Incline a cabeça lateralmente, aproximando a orelha do ombro, sem elevar o ombro.",
+            "Com uma das mãos, aplique leve pressão sobre a lateral da cabeça para intensificar o alongamento.",
+            "Mantenha a posição por 15 a 30 segundos e retorne à posição inicial.",
+            "Repita do outro lado."
+        ],
+        "why_do_it": [
+            "- Reduz tensões musculares acumuladas.",
+            "- Melhora a postura ao liberar tensões nos trapézios.",
+            "- Aumenta a flexibilidade da musculatura cervical e escapular."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos durante o alongamento.",
+            "- Não force além do limite confortável para evitar lesões.",
+            "- Mantenha a respiração constante durante a execução."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas cervicais graves ou hérnias de disco devem evitar ou consultar um profissional antes de realizar.",
+            "- Pessoas com dor aguda no pescoço ou ombros devem suspender o exercício."
+        ],
+        "substitutions": [
+            "- Alongamento da panturrilha.",
+            "- Rotação cervical suave.",
+            "- Flexão lateral do tronco com braços estendidos."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente porção superior).",
+            "- Elevador da escápula.",
+            "- Esternocleidomastoideo.",
+            "- Esplênio."
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Exercício: Encolhimento Silverback com Cabo",
+        "level": "Novato",
+        "execution_type": "Máquina (Cabo)",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-cable-silverback-shrug-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-cable-silverback-shrug-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Use um acessório de barra. O cabo deve ser ajustado até o limite inferior.",
+            "2. Levante-se com o acessório na mão, dê alguns passos para trás e certifique-se de que está de pé, em posição ereta, e não inclinado para trás.",
+            "3. Retraia as omoplatas e então projete-as para retornar à posição inicial."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício funcional que combina movimentos de puxada com encolhimento de ombros, utilizando um cabo ajustado a uma polia alta.",
+            "- O objetivo é trabalhar simultaneamente diferentes grupos musculares.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em frente à polia alta e segure o cabo com as duas mãos, mantendo os braços estendidos.",
+            "Puxe o cabo em direção ao corpo, trazendo-o até próximo ao peito.",
+            "Ao final do movimento de puxada, realize um encolhimento de ombros, elevando-os em direção às orelhas.",
+            "Retorne lentamente à posição inicial, controlando o peso durante todo o movimento."
+        ],
+        "why_do_it": [
+            "- Este movimento auxilia no fortalecimento dos músculos da parte superior do corpo, melhora a postura e promove estabilidade articular.",
+            "- Além disso, contribui para o desenvolvimento da força funcional e coordenação motora.."
+        ],
+        "precautions": [
+            "- Mantenha o core ativado durante toda a execução para evitar sobrecarga na coluna.",
+            "- Evite movimentos bruscos ou uso excessivo de momentum.",
+            "- Certifique-se de que o peso seja adequado para permitir a execução correta."
+        ],
+        "restrictions": [
+            "- Pessoas com problemas nos ombros, lesões na coluna cervical ou lombar devem evitar este exercício ou consultá-lo com um profissional antes de realizá-lo.",
+            "- Também não é recomendável para iniciantes sem supervisão.."
+        ],
+        "substitutions": [
+            "- Remada curvada com halteres",
+            "- Puxada alta na barra fixa",
+            "- Encolhimento de ombros com halteres"
+        ],
+        "related_muscles": [
+            "- Trapézio",
+            "- Deltoides posterior",
+            "- Romboides",
+            "- Bíceps",
+            "- Grande dorsal"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Exercício: Variação Dois do Alongamento dos Trapézios",
+        "level": "Novato",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-traps-stretch-variation-2-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-traps-stretch-variation-2-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique de pé com os pés afastados na largura dos ombros.",
+            "2. Mantendo seu peito voltado para frente, gire a cabeça 90 graus para a esquerda. Em seguida, retorne à posição central.",
+            "3. Repita, virando sua cabeça para a outra direção."
+        ],
+        "what_is": [
+            "- Um exercício de alongamento que visa a região dos músculos trapézios, localizados na parte superior das costas e pescoço.",
+            "- Ele é uma variação que foca no estiramento unilateral desses músculos.."
+        ],
+        "how_to_execute": [
+            "Sente-se ou fique em pé com a postura ereta.",
+            "Com uma mão, segure o braço oposto logo acima do cotovelo.",
+            "Incline lentamente a cabeça para o lado da mão que está segurando, aplicando leve pressão para intensificar o alongamento.",
+            "Mantenha a posição por 15 a 30 segundos.",
+            "Retorne à posição inicial e repita do outro lado."
+        ],
+        "why_do_it": [
+            "- Melhora a flexibilidade dos músculos trapézios.",
+            "- Ajuda a aliviar tensões e desconfortos na região cervical e superior das costas.",
+            "- Contribui para a correção postural ao alongar áreas frequentemente encurtadas."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos durante o alongamento.",
+            "- Não force além do limite confortável para evitar lesões.",
+            "- Mantenha a respiração constante durante a execução."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas cervicais graves ou lesões recentes devem evitar ou consultar um profissional antes de realizar.",
+            "- Pessoas com hérnia de disco ou dor crônica na região devem ter cautela."
+        ],
+        "substitutions": [
+            "- Alongamento lateral do pescoço sem apoio manual.",
+            "- Alongamento com toalha ou faixa para auxiliar o movimento.",
+            "- Posturas de ioga como a \"Postura da Orelha no Ombro\"."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente as fibras superiores).",
+            "- Elevador da escápula.",
+            "- Esternocleidomastoide."
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Exercício: Encolhimento Sentado com Halteres",
+        "level": "Novato",
+        "execution_type": "Halteres",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-seated-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-seated-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Sente-se em um banco com halteres em ambas as mãos, palmas voltadas para o seu corpo, costas retas.",
+            "2. Eleve seus ombros e mantenha a posição contraída no ápice do movimento.",
+            "3. Abaixe lentamente seus ombros de volta à posição inicial."
+        ],
+        "what_is": [
+            "- Consiste em um exercício de musculação realizado com halteres, focado no fortalecimento e desenvolvimento da região dorsal.",
+            "- Envolve a flexão do tronco enquanto se segura um haltere com as duas mãos, promovendo a ativação dos músculos das costas.."
+        ],
+        "how_to_execute": [
+            "Sente-se em um banco com os pés apoiados no chão.",
+            "Segure o haltere com as duas mãos, mantendo uma pegada neutra (palmas voltadas uma para a outra).",
+            "Incline o tronco para frente, mantendo as costas retas e o core ativado.",
+            "Eleve o haltere até o nível do peito, contraindo as costas.",
+            "Retorne lentamente à posição inicial, controlando o movimento."
+        ],
+        "why_do_it": [
+            "- Fortalece os músculos da parte superior das costas.",
+            "- Melhora a postura ao trabalhar a região dorsal.",
+            "- Auxilia no equilíbrio muscular entre tórax e costas.",
+            "- Promove estabilidade e controle corporal."
+        ],
+        "precautions": [
+            "- Mantenha a coluna neutra durante toda a execução.",
+            "- Evite usar pesos excessivos que comprometam a forma.",
+            "- Não arqueie as costas ou projete o pescoço para frente.",
+            "- Respeite a amplitude de movimento natural do corpo."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna lombar ou cervical devem evitar ou adaptar o exercício.",
+            "- Pessoas com lesões nos ombros ou cotovelos devem consultar um profissional antes de executar.",
+            "- Gestantes ou pessoas com condições especiais precisam de orientação médica."
+        ],
+        "substitutions": [
+            "- Remada sentada com barra",
+            "- Puxada alta na polia",
+            "- Remada unilateral com haltere",
+            "- Remada com cabos"
+        ],
+        "related_muscles": [
+            "- Latíssimo do dorso",
+            "- Romboides",
+            "- Trapézio",
+            "- Bíceps braquial",
+            "- Deltoide posterior",
+            "- Músculos eretores da espinha"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Exercício: Remada Vertical com Kettlebell",
+        "level": "Novato",
+        "execution_type": "Kettlebell",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-upright-row-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-upright-row-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique de pé com os pés afastados na largura dos ombros, segurando o kettlebell com ambas as mãos à frente das coxas.",
+            "2. Incline-se para a frente pelos quadris, levando o kettlebell ao chão enquanto flexiona levemente os joelhos, mantendo as costas retas.",
+            "3. Levante o kettlebell em direção ao seu peito e abaixe - repita."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício de força e resistência que utiliza uma kettlebell para trabalhar principalmente a região posterior do corpo.",
+            "- Envolve movimentos que exigem estabilidade e coordenação.."
+        ],
+        "how_to_execute": [
+            "Fique em posição ereta, segurando a kettlebell com uma ou duas mãos.",
+            "Mantenha os pés na largura dos ombros e os joelhos levemente flexionados.",
+            "Incline o tronco para frente, mantendo as costas retas.",
+            "Puxe a kettlebell em direção ao abdômen ou peito, contraindo as costas.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Fortalece a musculatura da parte superior das costas.",
+            "- Melhora a postura corporal.",
+            "- Desenvolve estabilidade e equilíbrio.",
+            "- Auxilia no ganho de força funcional."
+        ],
+        "precautions": [
+            "- Mantenha a coluna neutra durante toda a execução.",
+            "- Evite usar peso excessivo que comprometa a forma.",
+            "- Certifique-se de realizar o movimento de forma controlada.",
+            "- Não arqueie as costas ao inclinar o tronco."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nas costas ou lesões na coluna devem evitar ou consultar um profissional.",
+            "- Pessoas com dores nos ombros ou cotovelos devem ter cautela."
+        ],
+        "substitutions": [
+            "- Remada com halteres.",
+            "- Remada baixa no pulley.",
+            "- Remada com barra."
+        ],
+        "related_muscles": [
+            "- Grande dorsal.",
+            "- Romboides.",
+            "- Trapézio.",
+            "- Bíceps braquial.",
+            "- Posterior do deltóide."
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Exercício: Encolhimento com Kettlebell (Simples)",
+        "level": "Novato",
+        "execution_type": "Kettlebell",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-shrug-single-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-shrug-single-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé com os pés afastados na largura dos ombros.",
+            "2. Segurando o kettlebell com as duas mãos à frente da sua pelve, acione suas omoplatas, como se estivesse tentando aproximá-las uma da outra.",
+            "3. Solte o encolhimento de ombros e repita"
+        ],
+        "what_is": [
+            "- Trata-se de um exercício funcional que combina força e estabilização, utilizando uma kettlebell para trabalhar a musculatura do core, costas e membros superiores.",
+            "- O movimento envolve o encolhimento do abdômen enquanto se segura a kettlebell, promovendo ativação muscular profunda.."
+        ],
+        "how_to_execute": [
+            "Sente-se no chão com as pernas estendidas ou levemente flexionadas.",
+            "Segure a kettlebell com ambas as mãos e estique os braços à frente do corpo.",
+            "Contraia o abdômen, trazendo os joelhos em direção ao peito enquanto eleva levemente os ombros do chão.",
+            "Mantenha a posição por alguns segundos e retorne lentamente à posição inicial.",
+            "Repita o movimento pelo número de repetições desejado."
+        ],
+        "why_do_it": [
+            "- Fortalece o core e melhora a estabilidade lombar.",
+            "- Trabalha coordenação motora e equilíbrio.",
+            "- Aumenta a resistência muscular e promove maior controle corporal."
+        ],
+        "precautions": [
+            "- Evite arquear as costas durante o movimento.",
+            "- Mantenha o pescoço alinhado com a coluna para evitar tensões desnecessárias.",
+            "- Não utilize uma kettlebell muito pesada no início para garantir a execução correta."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna lombar ou hérnias discais devem evitar este exercício sem orientação profissional.",
+            "- Pessoas com lesões nos ombros ou punhos precisam adaptar ou substituir o movimento."
+        ],
+        "substitutions": [
+            "- Prancha frontal com kettlebell.",
+            "- Abdominal tradicional com peso leve.",
+            "- Encolhimento abdominal com halter ou barra."
+        ],
+        "related_muscles": [
+            "- Reto abdominal.",
+            "- Oblíquos internos e externos.",
+            "- Transverso abdominal.",
+            "- Músculos eretores da espinha.",
+            "- Peitoral maior e deltóides (secundariamente)."
+        ]
+    },
+    {
+        "id": "15",
+        "name": "Exercício: Encolhimento Silverback com Kettlebell (Único)",
+        "level": "Iniciante",
+        "execution_type": "Kettlebell",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-silverback-shrug-single-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-silverback-shrug-single-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé com os pés afastados na largura dos ombros, segurando o kettlebell com as duas mãos à frente de suas coxas.",
+            "2. Dobre-se para a frente nos quadris levando o kettlebell ao chão enquanto você dobra levemente os joelhos, mantendo as costas retas.",
+            "3. Segurando o kettlebell com as duas mãos, acione as omoplatas, como se você estivesse tentando aproximá-las. Solte o encolhimento de ombros."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício funcional que combina movimentos dinâmicos com uma kettlebell para trabalhar força, estabilidade e mobilidade simultaneamente.",
+            "- O foco está em engajar o core e os músculos posteriores enquanto se realiza um movimento coordenado.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em pé, segurando a kettlebell com as duas mãos na frente do corpo, braços estendidos.",
+            "Flexione levemente os joelhos e incline o tronco para frente, mantendo as costas neutras.",
+            "Puxe a kettlebell em direção ao peito, encolhendo os ombros e ativando as escápulas.",
+            "Retorne à posição inicial de forma controlada, alongando os músculos superiores das costas.",
+            "Repita o movimento sem arquear as costas ou usar momentum excessivo."
+        ],
+        "why_do_it": [
+            "- Fortalece a musculatura do core e da parte superior do corpo.",
+            "- Melhora a postura e a estabilidade articular.",
+            "- Desenvolve coordenação motora e controle corporal.",
+            "- Excelente para ativar a musculatura dos ombros e costas antes de treinos mais intensos."
+        ],
+        "precautions": [
+            "- Mantenha sempre a coluna neutra durante o movimento.",
+            "- Evite utilizar cargas muito pesadas no início para garantir técnica adequada.",
+            "- Não arqueie as costas ao realizar o movimento.",
+            "- Atenção ao alinhamento dos ombros e escápulas."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nas articulações dos ombros ou coluna devem evitar ou adaptar o exercício.",
+            "- Gestantes ou pessoas com hérnias abdominais precisam consultar um profissional antes de executar.",
+            "- Evitar em casos de lesões recentes nos músculos trapézios ou romboides."
+        ],
+        "substitutions": [
+            "- Remada curvada com halteres.",
+            "- Puxada vertical com corda.",
+            "- Encolhimento de ombros com barra."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente porção superior).",
+            "- Romboides.",
+            "- Deltoide posterior.",
+            "- Músculos do core (oblíquos, transverso abdominal).",
+            "- Peitoral menor (estabilização)."
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Exercício: Encolhimento com Elástico",
+        "level": "Novato",
+        "execution_type": "Faixa Elástica",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Coloque a faixa sob seus pés. Fique em pé.",
+            "2. Eleve suas omoplatas e então abaixe-as de volta à posição inicial."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício que envolve a contração muscular com o auxílio de um elástico resistivo.",
+            "- A técnica é amplamente utilizada para fortalecimento e alongamento controlado, proporcionando estímulos específicos ao sistema musculoesquelético.."
+        ],
+        "how_to_execute": [
+            "Posicione o elástico de forma firme em uma extremidade fixa ou em torno da parte do corpo que será trabalhada.",
+            "Execute movimentos lentos e controlados, contraindo os músculos enquanto aplica tensão ao elástico.",
+            "Retorne à posição inicial de forma gradual, mantendo a resistência do elástico durante todo o movimento.",
+            "Repita o número de repetições indicadas, respeitando a amplitude articular e o limite corporal."
+        ],
+        "why_do_it": [
+            "- Fortalece grupos musculares específicos.",
+            "- Melhora a estabilidade articular.",
+            "- Promove ganhos de mobilidade e flexibilidade.",
+            "- Auxilia na reabilitação de lesões.",
+            "- Pode ser adaptado para diferentes níveis de condicionamento físico."
+        ],
+        "precautions": [
+            "- Certifique-se de que o elástico esteja em boas condições para evitar rompimentos.",
+            "- Evite movimentos bruscos ou fora do controle.",
+            "- Use roupas adequadas para evitar incômodos causados pelo atrito do elástico.",
+            "- Respeite a intensidade da resistência aplicada."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões agudas ou inflamações devem evitar até autorização médica.",
+            "- Não é recomendável para pessoas com problemas graves de articulações sem orientação profissional.",
+            "- Gestantes devem consultar um especialista antes de realizar exercícios com elásticos."
+        ],
+        "substitutions": [
+            "- Exercícios com peso livre (halteres ou caneleiras).",
+            "- Movimentos isométricos sem equipamentos.",
+            "- Utilização de máquinas de musculação."
+        ],
+        "related_muscles": [
+            "- Dependendo da execução, podem ser trabalhados músculos como deltoides, bíceps, tríceps, quadríceps, glúteos, adutores e abdominais."
+        ]
+    },
+    {
+        "id": "17",
+        "name": "Exercício: Elevação de Ombros na Posição de Remador",
+        "level": "Intermediário",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-elevated-pike-shoulder-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-elevated-pike-shoulder-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Use um banco ou objeto semelhante, como uma cadeira, para elevar seus pés.",
+            "2. Abaixe lentamente o seu corpo (escápula) mantendo os cotovelos travados (isso é fundamental)",
+            "3. Levante seu corpo lentamente de volta à posição inicial."
+        ],
+        "what_is": [
+            "- Trata-se de um movimento que combina o exercício de elevação de ombros com a postura de remador, geralmente realizado com halteres ou barras.",
+            "- Este movimento visa trabalhar tanto os músculos responsáveis pela elevação dos ombros quanto os envolvidos na estabilização e tração da parte superior do corpo.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em um banco inclinado ou com o tronco levemente flexionado à frente, mantendo as costas retas.",
+            "Segure os halteres ou a barra com uma pegada neutra ou pronada, braços estendidos em direção ao chão.",
+            "Eleve os ombros em direção às orelhas, mantendo os braços retos.",
+            "Retorne lentamente à posição inicial sem deixar que os pesos toquem o chão ou relaxem completamente."
+        ],
+        "why_do_it": [
+            "- Este exercício é eficaz para fortalecer os músculos da região cervical e escapular, melhorando a postura e prevenindo lesões relacionadas à instabilidade muscular.",
+            "- Além disso, ele auxilia no desenvolvimento da musculatura posterior do corpo, promovendo equilíbrio muscular.."
+        ],
+        "precautions": [
+            "- Mantenha sempre a coluna neutra para evitar sobrecarga na região lombar.",
+            "- Evite usar cargas excessivas que comprometam a execução correta do movimento.",
+            "- Não eleve os ombros de forma abrupta ou com compensações do trapézio."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas cervicais, como hérnias de disco ou compressões nervosas, devem evitar este exercício ou consultá-lo com um profissional antes de executá-lo.",
+            "- Pessoas com lesões nos ombros também devem ter cautela.."
+        ],
+        "substitutions": [
+            "- Elevação lateral com halteres.",
+            "- Encolhimento de ombros com barra.",
+            "- Remada baixa no cabo."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente porção superior).",
+            "- Romboides.",
+            "- Deltoide posterior.",
+            "- Músculos estabilizadores da escápula."
+        ]
+    },
+    {
+        "id": "18",
+        "name": "Exercício: Levantamento de Braço Único com Faixa Elástica Acima da Cabeça",
+        "level": "Novato",
+        "execution_type": "Faixa Elástica",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-overhead-press-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-overhead-press-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Passe a faixa por baixo de um dos seus pés. A outra extremidade da faixa deve estar em sua mão, entre seu polegar e seu dedo indicador.",
+            "2. Pressione a faixa para cima em direção ao teto. Até que seu cotovelo esteja totalmente estendido."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício de resistência que utiliza uma faixa elástica para trabalhar os músculos do ombro e braço, promovendo fortalecimento e estabilidade."
+        ],
+        "how_to_execute": [
+            "Posicione a faixa elástica sob um pé ou fixe-a em um ponto estável acima da cabeça.",
+            "Segure uma extremidade da faixa com uma das mãos.",
+            "Mantenha o braço estendido e eleve-o acima da cabeça, aplicando tensão na faixa.",
+            "Retorne à posição inicial de forma controlada.",
+            "Repita conforme necessário e alterne o braço."
+        ],
+        "why_do_it": [
+            "- Ajuda no fortalecimento dos músculos do ombro, melhora a mobilidade articular e pode ser útil na prevenção de lesões relacionadas ao ombro."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos ou excesso de carga.",
+            "- Mantenha a postura alinhada durante o exercício.",
+            "- Respeite os limites articulares para evitar desconforto."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões prévias no ombro, cotovelo ou punho devem consultar um profissional antes de realizar o movimento.",
+            "- Gestantes ou pessoas com problemas cardiovasculares devem ter cautela.."
+        ],
+        "substitutions": [
+            "- Elevação lateral com halteres",
+            "- Remada alta com barra ou halteres",
+            "- Exercícios isométricos com faixa elástica"
+        ],
+        "related_muscles": [
+            "- Deltóide (principalmente porção anterior)",
+            "- Trapézio",
+            "- Supraespinhoso",
+            "- Tríceps braquial"
+        ]
+    },
+    {
+        "id": "19",
+        "name": "Exercício: Encolhimento Horizontal com Faixa Elástica",
+        "level": "Novato",
+        "execution_type": "Faixa Elástica",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-horizontal-shrug-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-horizontal-shrug-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fixe a faixa na altura do ombro. Dê alguns passos para trás até que a faixa fique esticada.",
+            "2. Recolha suas omoplatas direto para trás como se estivesse na escola. Depois, volte à posição inicial."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício que envolve a contração lateral do tronco, com o uso de uma faixa elástica para aumentar a resistência.",
+            "- Visa trabalhar principalmente os músculos do core e da região lateral do corpo.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em pé ou sentado, segurando as extremidades de uma faixa elástica com as mãos.",
+            "Estique a faixa na altura do peito ou ombros, mantendo tensão constante.",
+            "Contraia o tronco lateralmente, levando o torso para um dos lados sem girar os ombros.",
+            "Retorne à posição inicial de forma controlada e repita para o lado oposto."
+        ],
+        "why_do_it": [
+            "- Fortalece os músculos estabilizadores do core.",
+            "- Melhora a postura e a estabilidade lateral.",
+            "- Auxilia no equilíbrio corporal e prevenção de lesões."
+        ],
+        "precautions": [
+            "- Mantenha a coluna neutra durante o movimento.",
+            "- Evite movimentos bruscos ou excessivamente rápidos.",
+            "- Certifique-se de que a faixa elástica está em boas condições para evitar rompimentos."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna vertebral ou lesões recentes devem evitar.",
+            "- Pessoas com dor aguda na região lombar ou abdominal devem consultar um profissional antes de realizar."
+        ],
+        "substitutions": [
+            "- Abdominal oblíquo com peso.",
+            "- Flexão lateral com halteres.",
+            "- Prancha lateral com rotação."
+        ],
+        "related_muscles": [
+            "- Oblíquos internos e externos.",
+            "- Transverso do abdômen.",
+            "- Músculos paravertebrais.",
+            "- Peitoral menor (em menor grau)."
+        ]
+    },
+    {
+        "id": "20",
+        "name": "Exercício: Remada Vertical com Cabo",
+        "level": "Avançado",
+        "execution_type": "Máquina (Cabo)",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Cables-cable-upright-row-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Cables-cable-upright-row-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Use um acessório de alça com o cabo ajustado para a parte inferior da máquina.",
+            "2. Puxe seus cotovelos para cima em direção ao teto até que o acessório fique logo abaixo do seu queixo e depois estenda até que seus cotovelos estejam totalmente estendidos."
+        ],
+        "what_is": [
+            "- É um exercício de força que utiliza um cabo conectado a uma polia baixa para trabalhar principalmente a musculatura das costas.",
+            "- Consiste em puxar o cabo em direção ao corpo, mantendo os cotovelos próximos.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em frente à polia baixa e segure o cabo com as duas mãos, utilizando um triângulo ou barra curta.",
+            "Mantenha os joelhos levemente flexionados e o tronco inclinado para frente.",
+            "Puxe o cabo em direção ao abdômen, levando os cotovelos para trás.",
+            "Contraia as costas no ponto máximo do movimento e retorne lentamente à posição inicial."
+        ],
+        "why_do_it": [
+            "- Promove o fortalecimento da musculatura dorsal.",
+            "- Melhora a postura ao reforçar os músculos estabilizadores da coluna.",
+            "- Contribui para o equilíbrio muscular entre costas e membros superiores."
+        ],
+        "precautions": [
+            "- Evite arquear excessivamente a coluna durante a execução.",
+            "- Não utilize carga além da sua capacidade, priorizando a técnica.",
+            "- Mantenha os ombros relaxados para evitar tensão desnecessária."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna lombar ou articulações dos ombros devem consultar um profissional antes de realizar.",
+            "- Evitar em casos de lesões recentes nos músculos dorsais ou braços."
+        ],
+        "substitutions": [
+            "- Remada baixa com barra.",
+            "- Remada unilateral com halter.",
+            "- Pull-down na polia alta."
+        ],
+        "related_muscles": [
+            "- Grande dorsal (latíssimo do dorso).",
+            "- Romboides.",
+            "- Trapézio (porção média).",
+            "- Bíceps braquial.",
+            "- Posterior do deltóide."
+        ]
+    },
+    {
+        "id": "21",
+        "name": "Exercício: Levantamento de Prato Acima da Cabeça",
+        "level": "Iniciante",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-carry-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-carry-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Comece ficando em pé, com os pés afastados na largura dos ombros. Segure uma única placa de peso acima da cabeça com as duas mãos, mantendo seus braços estendidos retos acima da sua cabeça.",
+            "2. Comece a caminhar para frente, dando passos lentos e firmes enquanto mantém uma linha reta. Seu foco deve ser em manter o equilíbrio e controle do peso da placa acima da cabeça.",
+            "3. Enquanto caminha, continue mantendo os braços estendidos e a placa de peso acima da cabeça. Tente manter uma boa postura e evitar inclinar-se para frente ou para trás, pois isso pode resultar na perda de controle da placa de peso.",
+            "4. Continue caminhando por uma distância definida ou por um certo período de tempo, mantendo o foco na forma e técnica corretas. Quando terminar, volte à posição inicial e repita conforme desejado."
+        ],
+        "what_is": [
+            "- É um exercício de força que envolve a elevação de um peso acima da cabeça, geralmente utilizando halteres, barras ou kettlebells.",
+            "- Este movimento é comum em programas de treinamento funcional, musculação e levantamento de peso.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em pé, com os pés na largura dos ombros e joelhos levemente flexionados.",
+            "Segure o peso com as mãos, mantendo os braços estendidos à frente ou ao lado do corpo.",
+            "Inspire e eleve o peso acima da cabeça, estendendo completamente os cotovelos.",
+            "Retorne lentamente à posição inicial, controlando o movimento."
+        ],
+        "why_do_it": [
+            "- Fortalece os músculos superiores, especialmente ombros e braços.",
+            "- Melhora a estabilidade e coordenação motora.",
+            "- Contribui para o desenvolvimento de força funcional e postural."
+        ],
+        "precautions": [
+            "- Mantenha a coluna neutra durante toda a execução.",
+            "- Evite arquear excessivamente as costas ao levantar o peso.",
+            "- Use cargas adequadas ao nível de condicionamento físico."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões nos ombros, cotovelos ou coluna devem evitar ou adaptar o exercício.",
+            "- Pessoas com hipertensão ou problemas cardíacos devem consultar um médico antes de realizar movimentos que envolvam elevação de peso acima da cabeça."
+        ],
+        "substitutions": [
+            "- Desenvolvimento com halteres sentado.",
+            "- Elevação frontal com barra ou halteres.",
+            "- Thruster com kettlebell."
+        ],
+        "related_muscles": [
+            "- Primários: Deltóides (principalmente porção anterior), tríceps braquial.",
+            "- Secundários: Trapézio, serrátil anterior, romboides, peitoral maior (porção clavicular)."
+        ]
+    },
+    {
+        "id": "22",
+        "name": "Exercício: Elevação de Halteres Deitado a 30 Graus",
+        "level": "Intermediário",
+        "execution_type": "Halteres",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-laying-30-degree-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-laying-30-degree-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Deite de lado em um banco, deixando seu braço pendurado livremente.",
+            "2. Puxe sua escápula e articulação em direção ao teto."
+        ],
+        "what_is": [
+            "- É um exercício de musculação que envolve o levantamento de halteres em um banco inclinado a 30 graus.",
+            "- A posição angulada direciona o estímulo para uma área específica da musculatura.."
+        ],
+        "how_to_execute": [
+            "Ajuste o banco para uma inclinação de 30 graus.",
+            "Deite-se com as costas apoiadas no banco e os pés firmes no chão.",
+            "Segure um haltere em cada mão, com os braços estendidos na vertical e os cotovelos levemente flexionados.",
+            "Inspire e abaixe os halteres até a altura do peitoral, mantendo os cotovelos alinhados.",
+            "Expire ao empurrar os halteres de volta à posição inicial."
+        ],
+        "why_do_it": [
+            "- Trabalha áreas específicas da musculatura torácica.",
+            "- Contribui para o desenvolvimento muscular equilibrado.",
+            "- Melhora a força e estabilidade dos ombros."
+        ],
+        "precautions": [
+            "- Evite arquear excessivamente as costas.",
+            "- Mantenha os movimentos controlados para evitar lesões articulares.",
+            "- Não trave os cotovelos ao estender os braços completamente."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nos ombros ou cotovelos devem consultar um profissional antes de realizar.",
+            "- Pessoas com dores lombares devem garantir o suporte adequado da região inferior das costas."
+        ],
+        "substitutions": [
+            "- Supino inclinado com barra.",
+            "- Crucifixo inclinado com halteres.",
+            "- Máquina de supino inclinado."
+        ],
+        "related_muscles": [
+            "- Peitoral maior (porção clavicular).",
+            "- Deltóide anterior.",
+            "- Tríceps braquial.",
+            "- Serrátil anterior."
+        ]
+    },
+    {
+        "id": "23",
+        "name": "Exercício: Encolhimento de Ombros com Placa Acima da Cabeça",
+        "level": "Avançado",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé, com uma placa de peso acima da cabeça.",
+            "2. Eleve e abaixe sua escápula.",
+            "3. Evite inclinar-se para frente ou para trás para aliviar a pressão na sua coluna lombar."
+        ],
+        "what_is": [
+            "- Consiste em um movimento de elevação dos ombros enquanto se segura uma placa ou peso acima da cabeça.",
+            "- O exercício visa trabalhar principalmente a região dos ombros e parte superior do corpo.."
+        ],
+        "how_to_execute": [
+            "Fique em posição ereta, com os pés alinhados aos ombros.",
+            "Segure a placa ou peso com as duas mãos e estique os braços completamente acima da cabeça.",
+            "Eleve os ombros em direção às orelhas, mantendo os braços retos e o tronco estável.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Ajuda a fortalecer os músculos dos ombros, melhorar a estabilidade e promover resistência na região superior do corpo.",
+            "- Também pode auxiliar no desenvolvimento de postura e equilíbrio.."
+        ],
+        "precautions": [
+            "- Mantenha o core ativado para evitar compensações.",
+            "- Evite arquear as costas durante o movimento.",
+            "- Use um peso adequado para sua capacidade física.",
+            "- Realize o exercício de forma lenta e controlada."
+        ],
+        "restrictions": [
+            "- Não é recomendado para pessoas com lesões nos ombros, pescoço ou coluna.",
+            "- Indivíduos com problemas de pressão arterial devem consultar um médico antes de realizar."
+        ],
+        "substitutions": [
+            "- Encolhimento de ombros com halteres.",
+            "- Encolhimento de ombros com barra.",
+            "- Encolhimento de ombros no cabo."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente porções superior e média).",
+            "- Omo-hióideo e elevador da escápula.",
+            "- Deltóides (secundariamente)."
+        ]
+    },
+    {
+        "id": "24",
+        "name": "Exercício: Encolhimento com Barra",
+        "level": "Iniciante",
+        "execution_type": "Barra",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Comece ficando em pé com os pés aproximadamente na largura dos quadris, com uma barra à sua frente.",
+            "2. Abaixe-se e agarre a barra com uma pegada supinada, suas mãos devem estar um pouco mais afastadas do que a largura dos ombros. Mantenha as costas retas e os ombros baixos enquanto segura a barra.",
+            "3. Fique em pé, levantando a barra do chão e puxando-a em direção aos seus quadris. Mantenha seus cotovelos perto do corpo e seus ombros abaixados enquanto faz isso.",
+            "4. Uma vez que a barra esteja em seus quadris, levante seus ombros o máximo que puder, mantendo a posição por um momento."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício de musculação que envolve a flexão do tronco em uma posição suspensa, utilizando uma barra fixa.",
+            "- O movimento é realizado com o corpo pendurado e tem como foco principal a contração dos músculos abdominais.."
+        ],
+        "how_to_execute": [
+            "Posicione-se sob uma barra fixa, segurando-a com as mãos em pronação (palmas para frente) ou supinação (palmas para trás), dependendo da variação.",
+            "Mantenha o corpo suspenso, com os pés ligeiramente afastados do chão.",
+            "Contraia os músculos abdominais e eleve os joelhos ou pernas em direção ao peito, encolhendo o tronco.",
+            "Retorne à posição inicial de forma controlada, evitando soltar completamente a tensão abdominal."
+        ],
+        "why_do_it": [
+            "- Fortalece os músculos abdominais profundos e superficiais.",
+            "- Melhora a estabilização do core.",
+            "- Pode ser usado para complementar treinos funcionais ou específicos para a região do abdômen."
+        ],
+        "precautions": [
+            "- Evite balançar o corpo para gerar impulso durante a execução.",
+            "- Mantenha a coluna neutra, sem arquear excessivamente a região lombar.",
+            "- Respeite a amplitude articular e não force movimentos além do confortável."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nos ombros, cotovelos ou punhos devem evitar ou adaptar o exercício.",
+            "- Pessoas com hérnia abdominal ou desconforto na região lombar devem consultar um profissional antes de realizá-lo."
+        ],
+        "substitutions": [
+            "- Elevação de pernas em barras paralelas.",
+            "- Abdominal canivete.",
+            "- Prancha abdominal com movimento de joelhos."
+        ],
+        "related_muscles": [
+            "- Reto abdominal",
+            "- Oblíquos",
+            "- Transverso abdominal",
+            "- Peitoral maior (auxiliar)",
+            "- Bíceps e antebraços (estabilizadores)"
+        ]
+    },
+    {
+        "id": "25",
+        "name": "Exercício: Elevação de Ombros de Prata com Halteres Deitado",
+        "level": "Intermediário",
+        "execution_type": "Halteres",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-laying-silverback-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-laying-silverback-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Deite-se em um banco inclinado com os braços pendurados livremente.",
+            "2. Puxe suas omoplatas em direção ao teto."
+        ],
+        "what_is": [
+            "- É um exercício de musculação que visa trabalhar especificamente a porção superior da região trapezoidal, utilizando halteres e posicionando o corpo deitado em um banco inclinado."
+        ],
+        "how_to_execute": [
+            "Posicione-se deitado em um banco inclinado (entre 30º e 45º), com os pés firmes no chão.",
+            "Segure um haltere em cada mão, mantendo os braços estendidos ao longo do corpo e os polegares apontados para frente.",
+            "Eleve os ombros em direção às orelhas, contraindo os músculos superiores das costas.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Isolamento eficiente da parte superior dos trapézios.",
+            "- Melhora a postura corporal e fortalece a região cervical.",
+            "- Auxilia no desenvolvimento muscular específico da área trapezoidal."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos ou uso excessivo de carga.",
+            "- Mantenha o controle durante toda a execução.",
+            "- Não eleve os ombros além do necessário para evitar tensão desnecessária no pescoço."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas cervicais ou lesões na região dos ombros devem evitar ou adaptar o exercício.",
+            "- Consulte um profissional antes de realizar o movimento caso tenha histórico de lesões."
+        ],
+        "substitutions": [
+            "- Elevação de ombros com barra.",
+            "- Remada alta com halteres ou barra.",
+            "- Elevações laterais com halteres."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente a porção superior).",
+            "- Romboides.",
+            "- Deltoide posterior (secundariamente)."
+        ]
+    },
+    {
+        "id": "26",
+        "name": "Exercício: Encolhimento de Ombros com Halteres Silverback",
+        "level": "Iniciante",
+        "execution_type": "Halteres",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Dumbbells-dumbbell-silverback-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Dumbbells-dumbbell-silverback-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé com os pés afastados na largura dos ombros, segurando halteres com ambas as mãos à frente, um pouco além da largura dos ombros.",
+            "2. Dobre-se para a frente nos quadris com uma leve flexão nos joelhos, mantendo as costas retas.",
+            "3. Contraia suas omoplatas, como se estivesse tentando tocá-las juntas."
+        ],
+        "what_is": [
+            "- Consiste em um exercício de musculação que visa trabalhar a região dos ombros, utilizando halteres para promover o movimento de elevação dos ombros em direção às orelhas."
+        ],
+        "how_to_execute": [
+            "Fique em pé com os pés na largura dos ombros e um haltere em cada mão, ao lado do corpo, com as palmas voltadas para dentro.",
+            "Mantenha os braços estendidos e eleve os ombros em direção às orelhas, realizando uma contração muscular.",
+            "Pause brevemente no ponto máximo da elevação.",
+            "Retorne lentamente à posição inicial, controlando o movimento."
+        ],
+        "why_do_it": [
+            "- Fortalece os músculos trapézios, melhora a postura e contribui para o desenvolvimento geral da musculatura dos ombros e parte superior das costas."
+        ],
+        "precautions": [
+            "- Evite usar cargas excessivas que comprometam a execução correta.",
+            "- Mantenha o core ativado para evitar sobrecarga na coluna.",
+            "- Não incline o tronco durante o movimento."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nos ombros, pescoço ou coluna devem consultar um profissional antes de realizar o exercício.",
+            "- Gestantes também devem buscar orientação médica.."
+        ],
+        "substitutions": [
+            "- Elevação de ombros com barra.",
+            "- Elevação de ombros no Smith.",
+            "- Remada alta com cabo."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente porções superior e média).",
+            "- Peitoral menor (estabilização).",
+            "- Deltóide (participação secundária)."
+        ]
+    },
+    {
+        "id": "27",
+        "name": "Exercício: Elevação em Y no TRX",
+        "level": "Iniciante",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-y-raise-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-y-raise-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Segure as alças do TRX e incline-se para longe do ponto de ancoragem até que as alças fiquem esticadas.",
+            "2. Mantenha ambos os cotovelos principalmente estendidos e levante ambos os braços para fora e para cima.",
+            "3. Você deve fazer um formato de Y com seus braços durante a parte posterior do exercício."
+        ],
+        "what_is": [],
+        "how_to_execute": [
+            "Ajuste o TRX à altura desejada e segure as alças com as palmas das mãos voltadas para frente.",
+            "Incline o corpo para trás, mantendo os pés firmes no chão e o tronco reto.",
+            "Eleve os braços em diagonal, formando a letra \"Y\" até a altura dos ombros.",
+            "Retorne à posição inicial de forma controlada.",
+            "PORQUE FAZER",
+            "1. Este movimento é eficaz para fortalecer a musculatura da cintura escapular, melhorar a estabilização do core e promover equilíbrio muscular.",
+            "2. Ideal para prevenção de lesões e melhora da postura.."
+        ],
+        "why_do_it": [],
+        "precautions": [
+            "- Mantenha o core ativado durante todo o movimento.",
+            "- Evite arquear as costas ou elevar os ombros.",
+            "- Certifique-se de que o TRX esteja bem preso antes de iniciar."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nos ombros ou lesões na região escapular devem evitar ou adaptar o exercício.",
+            "- Não recomendado para pessoas com instabilidade no tronco ou dificuldade em manter a postura correta."
+        ],
+        "substitutions": [
+            "- Remada com halteres.",
+            "- Elevação lateral com faixas elásticas.",
+            "- Movimentos similares em máquinas de musculação."
+        ],
+        "related_muscles": [
+            "- Deltóides (principalmente porção anterior e média).",
+            "- Trapézio.",
+            "- Músculos do core (para estabilização).",
+            "- Rotadores externos do ombro."
+        ]
+    },
+    {
+        "id": "28",
+        "name": "Exercício: Remada Vertical na Smith Machine",
+        "level": "Intermediário",
+        "execution_type": "Máquina (Smith)",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Smithmachine-upright-row-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Smithmachine-upright-row-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Pegue com as duas mãos, mais ou menos na largura dos ombros.",
+            "2. Levante seus cotovelos em direção ao teto. Tente trazer a barra até o nível do queixo ou um pouco mais alto.",
+            "3. abaixe a barra e repita."
+        ],
+        "what_is": [
+            "- É um exercício de musculação realizado na máquina Smith, que consiste em puxar a barra verticalmente em direção ao corpo, com foco no desenvolvimento da parte superior das costas e dos braços."
+        ],
+        "how_to_execute": [
+            "Posicione-se em pé, com os pés alinhados aos ombros, e segure a barra com as palmas voltadas para fora (pegada pronada).",
+            "Incline o tronco levemente para frente, mantendo as costas retas e os joelhos flexionados.",
+            "Puxe a barra em direção ao abdômen ou peito, contraindo as costas.",
+            "Retorne à posição inicial de forma controlada, estendendo totalmente os braços sem relaxar os músculos."
+        ],
+        "why_do_it": [
+            "- Promove o fortalecimento e hipertrofia da musculatura dorsal.",
+            "- Auxilia no desenvolvimento dos músculos do braço e ombros.",
+            "- Melhora a postura corporal ao trabalhar a região escapular."
+        ],
+        "precautions": [
+            "- Evite usar cargas excessivas que comprometam a execução técnica.",
+            "- Mantenha o core ativado para proteger a coluna lombar.",
+            "- Não execute movimentos bruscos ou balanços durante a execução."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna vertebral ou lesões nos ombros devem evitar ou adaptar o exercício.",
+            "- Pessoas com limitações de mobilidade no ombro devem consultar um profissional antes de realizar."
+        ],
+        "substitutions": [
+            "- Remada curvada com barra livre.",
+            "- Remada baixa no pulley.",
+            "- Remada unilateral com halteres."
+        ],
+        "related_muscles": [
+            "- Grande dorsal (lats).",
+            "- Romboides.",
+            "- Trapézio.",
+            "- Bíceps braquial.",
+            "- Posterior do deltóide."
+        ]
+    },
+    {
+        "id": "29",
+        "name": "Exercício: Remada Alta com Corda de Cabo",
+        "level": "Iniciante",
+        "execution_type": "Máquina (Cabo)",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Cables-cable-rope-upright-row-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Cables-cable-rope-upright-row-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Use um acessório de corda com o cabo ajustado para a parte inferior da máquina.",
+            "2. Puxe os cotovelos para cima em direção ao teto até que o acessório fique logo abaixo do seu queixo e então estenda até que os cotovelos estejam totalmente estendidos."
+        ],
+        "what_is": [
+            "- É um exercício de musculação que utiliza uma corda de cabo conectada a uma polia alta.",
+            "- Consiste em puxar a corda em direção ao corpo, geralmente até o nível do peito ou abdômen, com o objetivo de trabalhar grupos musculares específicos.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em frente à polia alta e ajuste a carga.",
+            "Segure as extremidades da corda com as duas mãos, mantendo os braços estendidos à frente do corpo.",
+            "Com os joelhos levemente flexionados e o tronco inclinado para trás, puxe a corda em direção ao corpo, levando as mãos próximas ao torso.",
+            "Retorne lentamente à posição inicial, controlando o movimento."
+        ],
+        "why_do_it": [
+            "- Desenvolve força e hipertrofia muscular.",
+            "- Promove estabilidade e controle motor.",
+            "- Melhora a postura corporal ao fortalecer músculos importantes."
+        ],
+        "precautions": [
+            "- Mantenha a coluna neutra durante toda a execução.",
+            "- Evite usar peso excessivo, priorizando a técnica.",
+            "- Certifique-se de que o equipamento esteja bem ajustado antes de iniciar."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões nos ombros, costas ou cotovelos devem evitar ou adaptar o movimento.",
+            "- Não é recomendado para pessoas com problemas graves na coluna."
+        ],
+        "substitutions": [
+            "- Puxada alta com barra reta.",
+            "- Remada baixa com triângulo.",
+            "- Puxada frontal com pegada neutra."
+        ],
+        "related_muscles": [
+            "- Primários: Latíssimo do dorso, romboides, trapézio.",
+            "- Secundários: Bíceps, deltoides posterior, infraespinal.",
+            "- Estabilizadores: Músculos abdominais, eretores da espinha."
+        ]
+    },
+    {
+        "id": "30",
+        "name": "Exercício: Remada Vertical com Kettlebell Individual",
+        "level": "Iniciante",
+        "execution_type": "Kettlebell",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-upright-row-single-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-upright-row-single-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique de pé com os pés afastados na largura dos ombros, segurando o kettlebell com as duas mãos à frente das coxas.",
+            "2. Incline-se para a frente nos quadris levando o kettlebell até o chão enquanto você dobra levemente os joelhos, mantendo as costas retas.",
+            "3. Levante o kettlebell em direção ao seu peito e abaixe - repita."
+        ],
+        "what_is": [
+            "- É um exercício de força e resistência que utiliza uma kettlebell para trabalhar a musculatura superior do corpo, com foco na região das costas."
+        ],
+        "how_to_execute": [
+            "Fique em pé, segurando a kettlebell em uma das mãos, com os pés afastados na largura dos ombros.",
+            "Mantenha a coluna neutra e o core ativado.",
+            "Incline o tronco ligeiramente para frente, mantendo os joelhos levemente flexionados.",
+            "Puxe a kettlebell em direção ao quadril, levando o cotovelo para trás.",
+            "Retorne à posição inicial de forma controlada.",
+            "Repita o movimento no número desejado de repetições e alterne os lados."
+        ],
+        "why_do_it": [
+            "- Fortalece a musculatura dorsal, melhora a postura, aumenta a estabilidade do core e desenvolve a coordenação motora."
+        ],
+        "precautions": [
+            "- Evite arquear as costas durante o movimento.",
+            "- Não use peso excessivo que comprometa a execução técnica.",
+            "- Mantenha o pescoço alinhado com a coluna."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna lombar, ombros ou cotovelos devem evitar ou adaptar o exercício sob orientação profissional."
+        ],
+        "substitutions": [
+            "- Remada unilateral com halteres.",
+            "- Remada baixa no pulley.",
+            "- Remada com barra."
+        ],
+        "related_muscles": [
+            "- Grande dorsal.",
+            "- Romboides.",
+            "- Trapézio.",
+            "- Bíceps braquial.",
+            "- Músculos do core (estabilizadores)."
+        ]
+    },
+    {
+        "id": "31",
+        "name": "Exercício: Encolhimento com Kettlebell",
+        "level": "Novato",
+        "execution_type": "Kettlebell",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique de pé com os pés afastados na largura dos quadris, segure um kettlebell em cada mão nas laterais do seu corpo.",
+            "2. Levante os ombros para cima, mantendo os braços retos.",
+            "3. Abaixe os ombros de volta, repita pelo número desejado de repetições."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício funcional que combina força, estabilização e mobilidade.",
+            "- Utiliza uma kettlebell para aumentar a intensidade e promover desafios ao sistema musculoesquelético.."
+        ],
+        "how_to_execute": [
+            "Posicione-se de quatro apoios no chão (posição quadrúpede), segurando a kettlebell com uma das mãos.",
+            "Mantenha o tronco estável e o core ativado.",
+            "Eleve levemente o braço que segura a kettlebell, contraindo os músculos do ombro e da escápula.",
+            "Retorne à posição inicial de forma controlada.",
+            "Repita o movimento pelo número de repetições desejado e alterne o lado."
+        ],
+        "why_do_it": [
+            "- Melhora a estabilidade do ombro e da cintura escapular.",
+            "- Fortalece os músculos posturais.",
+            "- Promove equilíbrio muscular, especialmente em indivíduos que praticam esportes ou atividades assimétricas.",
+            "- Auxilia na prevenção de lesões relacionadas à instabilidade."
+        ],
+        "precautions": [
+            "- Evite arquear as costas durante a execução.",
+            "- Mantenha o core ativo para proteger a coluna lombar.",
+            "- Inicie com cargas leves para garantir a técnica adequada.",
+            "- Preste atenção à postura, evitando compensações com o tronco ou ombros."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas crônicos nos ombros ou lesões recentes devem evitar este exercício.",
+            "- Pessoas com dores na coluna lombar ou cervical devem consultar um profissional antes de realizá-lo.",
+            "- Gestantes devem adaptar ou evitar o movimento conforme orientação médica."
+        ],
+        "substitutions": [
+            "- Elevação lateral com halteres.",
+            "- Remada unilateral com cabo ou halter.",
+            "- Prancha com extensão de braço alternado."
+        ],
+        "related_muscles": [
+            "- Deltoide (principalmente porção posterior).",
+            "- Trapézio.",
+            "- Rotadores do manguito rotador.",
+            "- Músculos do core (abdômen e oblíquos).",
+            "- Estabilizadores da escápula (serrátil anterior, romboides)."
+        ]
+    },
+    {
+        "id": "32",
+        "name": "Exercício: Remada Vertical com Kettlebell",
+        "level": "Novato",
+        "execution_type": "Kettlebell",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-upright-row-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-kettlebell-upright-row-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique de pé com os pés afastados na largura dos ombros, segurando o kettlebell com ambas as mãos à frente das coxas.",
+            "2. Incline-se para a frente pelos quadris, levando o kettlebell ao chão enquanto flexiona levemente os joelhos, mantendo as costas retas.",
+            "3. Levante o kettlebell em direção ao seu peito e abaixe - repita."
+        ],
+        "what_is": [],
+        "how_to_execute": [
+            "Fique em pé com os pés na largura dos ombros, segurando a kettlebell com uma das mãos, palma voltada para o corpo.",
+            "Mantenha o tronco levemente inclinado para frente, com a coluna neutra e o core ativado.",
+            "Puxe a kettlebell em direção ao seu abdômen, mantendo o cotovelo próximo ao corpo.",
+            "Retorne lentamente à posição inicial, controlando o movimento.",
+            "PORQUE FAZER ESTE EXERCÍCIO",
+            "1. Trabalha a musculatura dorsal, melhora a postura, fortalece os músculos estabilizadores da escápula e desenvolve a força funcional.",
+            "2. Também contribui para o equilíbrio muscular entre costas e ombros.."
+        ],
+        "why_do_it": [],
+        "precautions": [
+            "- Evite arquear as costas durante o movimento.",
+            "- Mantenha o peso controlado para evitar compensações com ombros ou pescoço.",
+            "- Respeite a amplitude articular individual e não force além do conforto."
+        ],
+        "restrictions": [
+            "- Pessoas com problemas nos ombros, lesões na coluna ou condições que afetam os músculos da escápula devem consultar um profissional antes de executar este exercício.",
+            "- Gestantes também devem ter cautela com exercícios unilaterais.."
+        ],
+        "substitutions": [
+            "- Remada unilateral com halteres.",
+            "- Remada no cabo com triangulo.",
+            "- Remada baixa na máquina."
+        ],
+        "related_muscles": [
+            "- Grande dorsal.",
+            "- Romboides.",
+            "- Trapézio.",
+            "- Bíceps braquial.",
+            "- Deltoide posterior.",
+            "- Músculos estabilizadores da escápula."
+        ]
+    },
+    {
+        "id": "33",
+        "name": "Exercício: Levantamento Alto com Pegada Larga de Barra",
+        "level": "Intermediário",
+        "execution_type": "Barra",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Barbell-barbell-snatch-grip-high-pull-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Barbell-barbell-snatch-grip-high-pull-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé com os pés afastados na largura dos quadris, segurando a barra com uma pegada larga (na largura do arranco). Mantenha suas costas retas, peito para cima, e a barra próxima ao corpo.",
+            "2. Use as pernas para impulsionar, estendendo os quadris, joelhos e tornozelos enquanto puxa a barra para cima de forma explosiva.",
+            "3. Encolha os ombros com força e puxe a barra o mais alto possível, mantendo os cotovelos acima da barra.",
+            "4. Abaixe a barra de volta à posição inicial de maneira controlada e prepare-se para a próxima repetição."
+        ],
+        "what_is": [
+            "- É um exercício de levantamento de peso que envolve o uso de uma barra com as mãos posicionadas em uma pegada mais larga do que a usual.",
+            "- Este movimento trabalha predominantemente a parte superior do corpo, com foco em músculos específicos da região dorsal e dos braços.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em pé, com os pés na largura dos ombros e joelhos levemente flexionados.",
+            "Incline o tronco para frente, mantendo as costas retas e o core ativado.",
+            "Segure a barra com as mãos em uma pegada ampla, maior do que a largura dos ombros.",
+            "Puxe a barra em direção ao peito ou queixo, mantendo os cotovelos elevados.",
+            "Retorne à posição inicial de forma controlada, estendendo completamente os braços."
+        ],
+        "why_do_it": [
+            "- Desenvolve força e hipertrofia muscular na região das costas e braços.",
+            "- Melhora a postura corporal ao fortalecer músculos estabilizadores.",
+            "- Contribui para o aumento da mobilidade articular nos ombros e cotovelos.",
+            "- Promove ganhos funcionais para atividades que exigem força de tração."
+        ],
+        "precautions": [
+            "- Mantenha as costas sempre neutras para evitar lesões na coluna.",
+            "- Evite usar pesos excessivos que comprometam a execução técnica.",
+            "- Certifique-se de que os ombros estejam relaxados para prevenir tensão desnecessária.",
+            "- Realize o movimento de forma lenta e controlada, sem balançar o corpo."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna vertebral devem evitar ou adaptar o exercício.",
+            "- Pessoas com lesões nos ombros ou cotovelos devem consultar um profissional antes de executá-lo.",
+            "- Não é recomendado para iniciantes sem orientação adequada."
+        ],
+        "substitutions": [
+            "- Remada curvada com barra.",
+            "- Puxada alta na máquina de polia.",
+            "- Remada unilateral com halteres.",
+            "- Puxada frontal com triângulo."
+        ],
+        "related_muscles": [
+            "- Grande dorsal (lats).",
+            "- Romboides.",
+            "- Trapézio.",
+            "- Bíceps braquial.",
+            "- Deltoide posterior.",
+            "- Músculos estabilizadores da escápula."
+        ]
+    },
+    {
+        "id": "34",
+        "name": "Exercício: Elevação de Ombros Sentado na Máquina",
+        "level": "Iniciante",
+        "execution_type": "Máquina",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-shrug-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-shrug-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Sente-se na máquina e segure cada alavanca.",
+            "2. Puxe suas omoplatas diretamente para cima em direção ao teto."
+        ],
+        "what_is": [
+            "- Consiste em um exercício de musculação realizado com o auxílio de uma máquina específica, onde o praticante eleva os ombros contra uma resistência pré-determinada.",
+            "- É amplamente utilizado para trabalhar a região da cintura escapular.."
+        ],
+        "how_to_execute": [
+            "Sente-se no banco da máquina, posicionando os pés firmemente no chão.",
+            "Ajuste os apoios ou pegadas de acordo com sua altura e amplitude de movimento.",
+            "Mantenha a coluna ereta e o core ativado.",
+            "Eleve os ombros em direção às orelhas, realizando a contração muscular.",
+            "Retorne à posição inicial de forma controlada, sem soltar totalmente a tensão."
+        ],
+        "why_do_it": [
+            "- Fortalece músculos específicos da região dos ombros e costas.",
+            "- Contribui para melhorar a postura corporal.",
+            "- Auxilia no equilíbrio muscular da cintura escapular.",
+            "- Pode ser benéfico na prevenção de lesões relacionadas à região."
+        ],
+        "precautions": [
+            "- Evite usar cargas excessivas que comprometam a execução técnica.",
+            "- Mantenha a coluna neutra durante todo o movimento.",
+            "- Não realizar o exercício com movimentos bruscos ou rápidos.",
+            "- Respeite a amplitude articular natural do corpo."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nos ombros, como tendinite ou bursite, devem evitar ou adaptar o exercício.",
+            "- Pessoas com dor cervical ou lesões na região escapular devem consultar um profissional antes de executá-lo.",
+            "- Gestantes ou pessoas com condições específicas de saúde precisam de autorização médica."
+        ],
+        "substitutions": [
+            "- Elevação de ombros com halteres.",
+            "- Remada alta com barra ou halteres.",
+            "- Crucifixo inverso no cross over ou com cabos."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente parte superior).",
+            "- Levantador da escápula.",
+            "- Romboides.",
+            "- Peitoral menor (estabilizador)."
+        ]
+    },
+    {
+        "id": "35",
+        "name": "Exercício: Barbell Z Press",
+        "level": "Avançado",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-z-press-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-z-press-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Comece sentando no chão com as pernas estendidas e uma barra de pesos nas mãos, com as palmas das mãos voltadas para a frente e os cotovelos dobrados.",
+            "2. Mantendo o seu core ativado e as costas retas, levante a barra a partir do seu peito e pressione-a para cima, acima da sua cabeça.",
+            "3. Abaixe a barra de volta ao seu peito."
+        ],
+        "what_is": [
+            "- É um exercício de força que envolve o levantamento de uma barra enquanto o praticante está sentado no chão, com as pernas estendidas à frente e o tronco ereto.",
+            "- O movimento enfatiza a ativação dos músculos superiores do corpo, além de exigir estabilidade central.."
+        ],
+        "how_to_execute": [
+            "Sente-se no chão com as pernas estendidas e os pés apoiados.",
+            "Mantenha a coluna ereta e os ombros retraídos.",
+            "Levante a barra até a altura dos ombros, segurando-a com uma pegada adequada.",
+            "Pressione a barra verticalmente até os braços ficarem completamente estendidos.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Desenvolve força nos músculos alvo.",
+            "- Melhora a estabilidade do core.",
+            "- Exige controle postural e equilíbrio.",
+            "- Ajuda a identificar desequilíbrios musculares."
+        ],
+        "precautions": [
+            "- Mantenha a lombar neutra durante toda a execução.",
+            "- Evite arquear excessivamente a coluna ou inclinar o tronco.",
+            "- Use cargas adequadas ao nível de experiência.",
+            "- Certifique-se de que a mobilidade dos ombros e quadris permita a execução correta."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna vertebral devem evitar ou adaptar.",
+            "- Pessoas com lesões nos ombros ou restrições de mobilidade podem encontrar dificuldades.",
+            "- Não é recomendado para iniciantes sem supervisão."
+        ],
+        "substitutions": [
+            "- Supino com halteres.",
+            "- Press militar com barra em pé.",
+            "- Press militar com halteres.",
+            "- Variações de exercícios com kettlebell."
+        ],
+        "related_muscles": [
+            "- Deltóides (principalmente porção anterior).",
+            "- Trapézio.",
+            "- Tríceps.",
+            "- Músculos do core (abdômen e oblíquos)."
+        ]
+    },
+    {
+        "id": "36",
+        "name": "Exercício: Levantamento Alto com Barra",
+        "level": "Intermediário",
+        "execution_type": "Barra",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Barbell-barbell-high-pull-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Barbell-barbell-high-pull-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique de pé com os pés afastados na largura dos quadris, segure a barra um pouco mais larga que a largura dos ombros e mantenha suas costas retas.",
+            "2. Impulsione pelas pernas, estendendo os quadris, joelhos e tornozelos de forma explosiva enquanto puxa a barra para cima.",
+            "3. Conforme a barra sobe, puxe-a para perto do seu corpo, liderando com seus cotovelos até que ela alcance o nível do peito."
+        ],
+        "what_is": [
+            "- É um exercício de força que envolve elevar uma barra do chão até a altura dos ombros ou acima da cabeça, utilizando movimentos coordenados do corpo.",
+            "- É amplamente utilizado no treinamento funcional e em levantamentos olímpicos.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em pé, com os pés na largura dos quadris e a barra no chão à sua frente.",
+            "Agache-se, mantenha as costas retas e segure a barra com as mãos mais afastadas que a largura dos ombros.",
+            "Inicie o movimento elevando a barra ao longo das pernas, estendendo quadril e joelhos.",
+            "Ao atingir a altura média da coxa, execute uma extensão explosiva dos quadris e joelhos, impulsionando a barra para cima.",
+            "Puxe a barra verticalmente enquanto abaixa-se rapidamente sob ela, posicionando-a nos ombros ou acima da cabeça com os braços estendidos."
+        ],
+        "why_do_it": [
+            "- Desenvolve força e potência muscular.",
+            "- Melhora a coordenação motora e a estabilidade corporal.",
+            "- Promove ganhos funcionais aplicáveis a atividades cotidianas e esportivas.",
+            "- Estimula múltiplos grupos musculares simultaneamente."
+        ],
+        "precautions": [
+            "- Mantenha a coluna neutra durante todo o movimento.",
+            "- Evite arredondar as costas ao levantar a barra.",
+            "- Use calçados adequados com sola firme para maior estabilidade.",
+            "- Aqueça-se adequadamente antes de executar o exercício."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas na coluna lombar devem evitar o exercício ou adaptá-lo.",
+            "- Pessoas com lesões nos ombros, cotovelos ou punhos devem consultar um profissional antes de realizá-lo.",
+            "- Não é recomendado para iniciantes sem orientação técnica."
+        ],
+        "substitutions": [
+            "- Remada curvada com barra.",
+            "- Levantamento terra.",
+            "- Desenvolvimento militar com halteres.",
+            "- Thruster com kettlebell."
+        ],
+        "related_muscles": [
+            "- Principais: Quadríceps, glúteos, isquiotibiais, trapézio, deltóides.",
+            "- Secundários: Abdominais, eretores da espinha, bíceps, tríceps."
+        ]
+    },
+    {
+        "id": "37",
+        "name": "Exercício: Posição do Laço de Gravata Cruzado",
+        "level": "Iniciante",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-bow-tie-pose-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-bow-tie-pose-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique de pé com os pés afastados na largura dos quadris e os braços ao lado do corpo.",
+            "2. Cruze o seu braço direito sobre o seu braço esquerdo, unindo as palmas das mãos em frente ao seu peito.",
+            "3. Abaixe os braços de modo que as palmas das mãos fiquem voltadas para o chão e o cotovelo direito esteja apoiado sobre o cotovelo esquerdo.",
+            "4. Mantenha por algumas respirações, depois troque de lado."
+        ],
+        "what_is": [
+            "- É um exercício que visa melhorar a mobilidade articular e alongar músculos específicos da parte superior do corpo, especialmente os envolvidos na postura e movimentos dos ombros."
+        ],
+        "how_to_execute": [
+            "Sente-se ou fique de pé com a coluna reta.",
+            "Cruze um braço sobre o peito, mantendo-o reto.",
+            "Use o braço oposto para suavemente pressionar o braço cruzado em direção ao corpo.",
+            "Mantenha a posição por 15-30 segundos e alterne os lados."
+        ],
+        "why_do_it": [
+            "- Ajuda a melhorar a flexibilidade dos ombros e parte superior das costas, além de corrigir desequilíbrios posturais causados por movimentos repetitivos ou má postura."
+        ],
+        "precautions": [
+            "- Evite realizar o movimento de forma brusca ou aplicar pressão excessiva.",
+            "- Respeite os limites do corpo e pare caso sinta dor.."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões recentes nos ombros, cotovelos ou pescoço devem evitar este exercício sem orientação profissional."
+        ],
+        "substitutions": [
+            "- Alongamento de ombro com toalha ou uso de faixas elásticas para auxiliar no movimento."
+        ],
+        "related_muscles": [
+            "- Deltóides, trapézio, romboides e peitorais menores."
+        ]
+    },
+    {
+        "id": "38",
+        "name": "Exercício: Meio Rolamento de Pescoço",
+        "level": "Iniciante",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-half-neck-rolls-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-half-neck-rolls-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Sente-se de pernas cruzadas no chão e entrelace os dedos atrás da cabeça.",
+            "2. Abaixe o queixo em direção ao peito e gire a cabeça para a direita, levando a orelha direita em direção ao ombro direito.",
+            "3. Rode lentamente a cabeça de volta ao centro e, em seguida, para a esquerda, de modo que a orelha esquerda fique próxima ao ombro esquerdo.",
+            "4. Repita o movimento de um lado para o outro, mantendo os ombros relaxados e respirando profundamente."
+        ],
+        "what_is": [
+            "- Consiste em um movimento controlado da cabeça e pescoço, onde a musculatura cervical é ativada para realizar uma rotação parcial.",
+            "- O exercício foca na estabilização e mobilidade da região.."
+        ],
+        "how_to_execute": [
+            "Sente-se ou fique em pé com a coluna ereta e ombros relaxados.",
+            "Mantenha os ombros fixos e inicie uma rotação suave da cabeça para um dos lados, sem forçar o movimento ao limite máximo.",
+            "Realize o movimento de forma lenta e controlada, retornando à posição inicial.",
+            "Repita o processo alternando os lados conforme orientação."
+        ],
+        "why_do_it": [
+            "- Promove a mobilidade articular do pescoço.",
+            "- Fortalece a musculatura cervical.",
+            "- Auxilia no alívio de tensões localizadas.",
+            "- Melhora a postura ao fortalecer músculos envolvidos no suporte da cabeça."
+        ],
+        "precautions": [
+            "- Evite realizar o movimento de forma rápida ou brusca.",
+            "- Não force além do conforto articular.",
+            "- Mantenha a respiração regular durante a execução.",
+            "- Consulte um profissional caso tenha histórico de problemas cervicais."
+        ],
+        "restrictions": [
+            "- Pessoas com hérnia de disco cervical.",
+            "- Indivíduos com dor aguda ou lesões recentes no pescoço.",
+            "- Condições como artrite severa ou instabilidade cervical.",
+            "- Gestantes ou pessoas com hipertensão arterial devem consultar um médico antes de iniciar."
+        ],
+        "substitutions": [
+            "- Rotação completa do pescoço (se adequado).",
+            "- Flexão e extensão controlada da cabeça.",
+            "- Exercícios isométricos para o pescoço.",
+            "- Mobilizações assistidas com faixas elásticas."
+        ],
+        "related_muscles": [
+            "- Esternocleidomastóideo",
+            "- Trapézio (porção superior)",
+            "- Esplênio da cabeça",
+            "- Músculos suboccipitais",
+            "- Longo da cabeça e longo do pescoço"
+        ]
+    },
+    {
+        "id": "39",
+        "name": "Exercício: Braços de Águia, Queixo no Peito",
+        "level": "Iniciante",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-eagle-arm-chin-down-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-eagle-arm-chin-down-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Sente-se no chão com as pernas cruzadas e estenda os braços para os lados na altura dos ombros.",
+            "2. Cruze seu braço direito sobre o esquerdo, dobrando ambos os cotovelos de modo que seus antebraços fiquem paralelos ao chão.",
+            "3. Levante os cotovelos em direção ao teto e junte as mãos, então abaixe o queixo em direção ao peito.",
+            "4. Mantenha por algumas respirações, então solte seus braços e repita do outro lado."
+        ],
+        "what_is": [
+            "- Consiste em uma posição estática que combina alongamento e fortalecimento, frequentemente usada em práticas como yoga ou pilates.",
+            "- Envolve a extensão dos braços para os lados enquanto o queixo é direcionado em direção ao peito.."
+        ],
+        "how_to_execute": [
+            "Sente-se ou fique de pé com a coluna ereta.",
+            "Abra os braços lateralmente, mantendo-os paralelos ao chão.",
+            "Encolha os ombros levemente para trás e dirija o queixo em direção ao peito.",
+            "Mantenha a posição por alguns segundos, respirando profundamente."
+        ],
+        "why_do_it": [
+            "- Promove alongamento da musculatura do pescoço e ombros, melhora a postura e auxilia no alinhamento da coluna vertebral.",
+            "- Pode ser usado para relaxar áreas tensionadas.."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos ao posicionar o queixo.",
+            "- Mantenha a região lombar estável para evitar compensações.",
+            "- Respeite seus limites de amplitude de movimento."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas cervicais, lesões no ombro ou tensão muscular excessiva devem consultar um profissional antes de realizar este exercício."
+        ],
+        "substitutions": [
+            "- Alongamento de pescoço lateral.",
+            "- Exercícios de retração escapular.",
+            "- Posturas de yoga alternativas, como a \"Postura da Montanha\"."
+        ],
+        "related_muscles": [
+            "- Trapézio.",
+            "- Peitoral menor.",
+            "- Esternocleidomastoide.",
+            "- Deltoide."
+        ]
+    },
+    {
+        "id": "40",
+        "name": "Exercício: Alongamento Fácil do Pescoço na Postura Fácil",
+        "level": "Iniciante",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-easy-pose-neck-stretch-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-easy-pose-neck-stretch-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Comece sentando-se de pernas cruzadas no chão.",
+            "2. Abaixe lentamente seu queixo em direção ao peito, sentindo um alongamento na parte de trás do seu pescoço.",
+            "3. Inspire e levante a cabeça, depois expire e abaixe sua orelha direita em direção ao seu ombro direito.",
+            "4. Mantenha por algumas respirações, depois troque de lado e repita o alongamento."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício de alongamento que visa relaxar e esticar os músculos do pescoço, promovendo alívio de tensões acumuladas.",
+            "- É frequentemente realizado em posições confortáveis, como sentado ou deitado.."
+        ],
+        "how_to_execute": [
+            "Sente-se ou deite-se em uma posição relaxada, mantendo a coluna alinhada.",
+            "Incline lentamente a cabeça para o lado, aproximando a orelha do ombro, sem levantar o ombro.",
+            "Mantenha a posição por alguns segundos.",
+            "Retorne à posição inicial e repita para o outro lado."
+        ],
+        "why_do_it": [
+            "- Alivia tensões musculares no pescoço.",
+            "- Melhora a mobilidade da região cervical.",
+            "- Auxilia na prevenção de dores causadas por posturas inadequadas."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos ou forçados.",
+            "- Respeite seus limites e não incline a cabeça além do confortável.",
+            "- Não realize o alongamento caso sinta dor intensa durante o movimento."
+        ],
+        "restrictions": [
+            "- Pessoas com lesões graves no pescoço ou problemas na coluna cervical devem evitar este exercício.",
+            "- Consulte um profissional de saúde antes de praticar, caso tenha condições pré-existentes."
+        ],
+        "substitutions": [
+            "- Rotação suave da cabeça.",
+            "- Flexão anterior (encostar o queixo no peito).",
+            "- Alongamento dos trapézios superiores com auxílio das mãos."
+        ],
+        "related_muscles": [
+            "- Esternocleidomastóideo.",
+            "- Trapézio superior.",
+            "- Escalenos."
+        ]
+    },
+    {
+        "id": "41",
+        "name": "Exercício: Balanceio até a Remada Vertical",
+        "level": "Intermediário",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-swing-to-upright-row-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Kettlebells-swing-to-upright-row-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Comece com um kettlebell entre suas pernas, incline-se nos quadris e balance-o para cima.",
+            "2. Levante o kettlebell até o nível do peito, cotovelos altos, envolvendo os ombros.",
+            "3. Abaixe a kettlebell novamente, mantendo o controle. Repita para a quantidade desejada de repetições."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício funcional que combina estabilidade e força, exigindo coordenação motora para equilibrar o corpo enquanto se realiza um movimento de tração com os braços.",
+            "- Envolve a utilização de halteres, barras ou cabos, com foco na ativação simultânea de músculos estabilizadores e motores primários.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em um banco ou step, mantendo um dos pés no chão e o outro elevado para garantir equilíbrio.",
+            "Com uma pegada neutra ou alternada, segure o peso ou cabo e incline o tronco levemente para frente.",
+            "Mantenha o core ativado e puxe o peso em direção ao peito ou queixo, controlando o movimento.",
+            "Retorne à posição inicial de forma lenta e controlada, sem perder o equilíbrio."
+        ],
+        "why_do_it": [
+            "- Este movimento melhora a estabilidade corporal, fortalece músculos importantes para a postura e desenvolve coordenação motora.",
+            "- Além disso, é útil para prevenir lesões e melhorar o desempenho em atividades diárias e esportivas.."
+        ],
+        "precautions": [
+            "- Mantenha o core ativado durante toda a execução para evitar sobrecarga na coluna.",
+            "- Evite movimentos bruscos ou excessivamente rápidos.",
+            "- Certifique-se de que o peso utilizado seja adequado ao nível de equilíbrio e força."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas de equilíbrio, lesões recentes nos ombros ou coluna devem evitar este exercício.",
+            "- Pessoas com limitações motoras ou neurológicas também devem consultar um profissional antes de realizá-lo.."
+        ],
+        "substitutions": [
+            "- Remada unilateral com apoio.",
+            "- Remada sentada no cabo.",
+            "- Remada com halteres em pé."
+        ],
+        "related_muscles": [
+            "- Primários: Dorsais (latíssimo do dorso), trapézio, romboides.",
+            "- Secundários: Bíceps, deltoides posterior.",
+            "- Estabilizadores: Core (abdominais e oblíquos), glúteos, paravertebrais."
+        ]
+    },
+    {
+        "id": "42",
+        "name": "Exercício: Encolhimento Vitruviano",
+        "level": "Iniciante",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-shrug-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-shrug-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé e segure os dois acessórios de pegador.",
+            "2. Puxe suas omoplatas direto para cima em direção ao teto."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício que combina alongamento e fortalecimento, inspirado nos princípios de proporção e equilíbrio corporal descritos por Leonardo da Vinci em sua obra \"O Homem Vitruviano\".",
+            "- Envolve movimentos controlados que buscam integrar a mobilidade articular com o engajamento muscular.."
+        ],
+        "how_to_execute": [
+            "Posicione-se de pé, com os pés alinhados aos quadris.",
+            "Flexione levemente os joelhos e incline o tronco para frente, mantendo a coluna neutra.",
+            "Estique os braços à frente, alinhando-os com os ombros.",
+            "Contraia o abdômen e leve os cotovelos em direção aos joelhos, enquanto eleva ligeiramente os calcanhares do chão.",
+            "Retorne à posição inicial de forma suave e controlada."
+        ],
+        "why_do_it": [
+            "- Promove estabilidade central e coordenação motora.",
+            "- Melhora a consciência corporal e postura.",
+            "- Fortalece músculos profundos e superficiais.",
+            "- Auxilia na prevenção de desequilíbrios musculares."
+        ],
+        "precautions": [
+            "- Evite realizar o movimento com a coluna arqueada ou tensionada.",
+            "- Mantenha a respiração constante durante a execução.",
+            "- Inicie com movimentos curtos e aumente gradualmente a amplitude."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas graves na coluna vertebral devem evitar.",
+            "- Pessoas com lesões recentes nos joelhos ou ombros precisam de adaptações.",
+            "- Gestantes devem consultar um especialista antes de praticar."
+        ],
+        "substitutions": [
+            "- Prancha lateral dinâmica.",
+            "- Agachamento com halter.",
+            "- Pilates no solo (exercícios focados no core)."
+        ],
+        "related_muscles": [
+            "- Reto abdominal.",
+            "- Oblíquos internos e externos.",
+            "- Transverso do abdômen.",
+            "- Quadríceps.",
+            "- Isquiotibiais.",
+            "- Deltoide anterior."
+        ]
+    },
+    {
+        "id": "43",
+        "name": "Exercício: Encolhimento de Pique com Bola Bosu",
+        "level": "Iniciante",
+        "execution_type": "Bola Suíça",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pike-shrug-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pike-shrug-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Posicione os dedos dos pés no Bosu, mãos no chão.",
+            "2. Eleve os quadris em postura de peixe, encolha os ombros, ative o abdômen."
+        ],
+        "what_is": [
+            "- Consiste em um exercício funcional que combina o fortalecimento do core com trabalho de equilíbrio, utilizando uma bola Bosu.",
+            "- O movimento envolve flexão lateral do tronco enquanto a pessoa se mantém posicionada sobre a bola.."
+        ],
+        "how_to_execute": [
+            "Posicione-se em pé sobre o lado plano da bola Bosu, com os pés alinhados aos quadris.",
+            "Mantenha o tronco ereto e contraia o abdômen.",
+            "Incline o tronco lateralmente para um dos lados, abaixando o ombro em direção ao quadril.",
+            "Retorne à posição inicial de forma controlada.",
+            "Alterne os lados ou repita o movimento no mesmo lado conforme orientação."
+        ],
+        "why_do_it": [
+            "- Melhora o equilíbrio e propriocepção.",
+            "- Fortalece a musculatura do core e da região lateral do tronco.",
+            "- Promove estabilidade dinâmica.",
+            "- Auxilia na prevenção de lesões posturais."
+        ],
+        "precautions": [
+            "- Mantenha o controle corporal para evitar quedas.",
+            "- Evite movimentos bruscos ou descontrolados.",
+            "- Contraia o abdômen durante toda a execução para proteger a coluna.",
+            "- Certifique-se de que a bola Bosu está em uma superfície firme e nivelada."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas graves de equilíbrio ou vertigem devem evitar.",
+            "- Pessoas com lesões recentes na coluna ou nos membros inferiores precisam de adaptações.",
+            "- Não é recomendado para quem tem instabilidade articular severa."
+        ],
+        "substitutions": [
+            "- Flexão lateral com halteres.",
+            "- Prancha lateral com rotação.",
+            "- Flexão lateral com fita elástica."
+        ],
+        "related_muscles": [
+            "- Oblíquos externos e internos.",
+            "- Transverso abdominal.",
+            "- Reto abdominal.",
+            "- Quadrado lombar.",
+            "- Músculos estabilizadores do quadril e tornozelo."
+        ]
+    },
+    {
+        "id": "44",
+        "name": "Exercício: Passe a Linha do Quadril Sobre os Joelhos",
+        "level": "Intermediário",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-thread-the-needle-hip-over-knees-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-thread-the-needle-hip-over-knees-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Comece com as mãos e os joelhos em uma posição de mesa.",
+            "2. Deslize seu joelho direito para cima entre suas mãos e coloque seu pé direito próximo ao seu pulso esquerdo.",
+            "3. Leve sua perna esquerda para trás e abaixe-a até o chão, mantendo os dedos dos pés dobrados.",
+            "4. Gire o tronco para a direita e estenda seu braço direito por baixo do seu braço esquerdo, costurando a agulha. Segure por algumas respirações, depois troque de lado."
+        ],
+        "what_is": [
+            "- Consiste em um movimento que envolve flexionar o quadril de forma a alinhar ou posicionar a linha do quadril acima dos joelhos, frequentemente utilizado para fortalecer e alongar áreas específicas do corpo."
+        ],
+        "how_to_execute": [
+            "Posicione-se de pé ou sentado, dependendo da variação.",
+            "Flexione o quadril, levando-o para trás, enquanto mantém os joelhos levemente flexionados.",
+            "Alinhe a altura do quadril com a linha dos joelhos.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Fortalece músculos importantes para estabilização postural.",
+            "- Melhora a mobilidade articular e a amplitude de movimento.",
+            "- Auxilia na correção de desequilíbrios musculares.",
+            "- Prepara o corpo para atividades funcionais e esportivas."
+        ],
+        "precautions": [
+            "- Mantenha a coluna neutra durante o movimento.",
+            "- Evite sobrecarregar os joelhos ou forçar articulações.",
+            "- Realize o exercício de forma lenta e controlada.",
+            "- Respeite seus limites de amplitude de movimento."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões no quadril, joelhos ou coluna devem evitar.",
+            "- Não é recomendado para quem sofre de problemas graves de equilíbrio.",
+            "- Consulte um profissional antes de praticar caso tenha condições pré-existentes."
+        ],
+        "substitutions": [
+            "- Agachamento parcial.",
+            "- Flexão de quadril com apoio.",
+            "- Exercícios isométricos de estabilização."
+        ],
+        "related_muscles": [
+            "- Glúteos (máximo, médio e mínimo).",
+            "- Isquiotibiais.",
+            "- Quadríceps.",
+            "- Abdominais (principalmente transverso abdominal).",
+            "- Músculos paravertebrais."
+        ]
+    },
+    {
+        "id": "45",
+        "name": "Exercício: Desenvolvimento Suspenso com Peso Corporal",
+        "level": "Intermediário",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-bodyweight-pike-press-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-bodyweight-pike-press-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Comece na posição de prancha. Empurre seus quadris para cima em direção ao teto.",
+            "2. Abaixe sua cabeça em direção ao chão dobrando seus cotovelos.",
+            "3. Empurre através das suas mãos e retorne à posição inicial de empinada.",
+            "4. Repetir"
+        ],
+        "what_is": [
+            "- Trata-se de um exercício de força que utiliza o peso corporal como resistência principal, realizado com a ajuda de uma barra ou estrutura suspensa.",
+            "- É amplamente utilizado para fortalecer a musculatura superior do corpo.."
+        ],
+        "how_to_execute": [
+            "Posicione-se abaixo de uma barra suspensa, segurando-a com as mãos em posição pronada (palmas voltadas para longe do corpo) ou neutra (palmas voltadas uma para a outra), dependendo da variação.",
+            "Mantenha os pés apoiados no chão ou em um suporte estável, com os joelhos flexionados.",
+            "Incline o tronco para trás, mantendo o corpo alinhado e o core ativado.",
+            "Realize a fase concêntrica puxando o peito em direção à barra, mantendo os cotovelos próximos ao corpo.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Desenvolve força e resistência muscular na região superior do corpo.",
+            "- Melhora a estabilidade do core e a postura.",
+            "- Pode ser adaptado para diferentes níveis de condicionamento físico."
+        ],
+        "precautions": [
+            "- Mantenha a coluna neutra durante toda a execução para evitar lesões.",
+            "- Evite movimentos bruscos ou balanços excessivos.",
+            "- Certifique-se de que a barra ou estrutura utilizada seja estável e suporte seu peso."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nos ombros, cotovelos ou punhos devem consultar um profissional antes de realizar o movimento.",
+            "- Pessoas com condições que afetam a estabilidade da coluna devem evitar inclinações excessivas."
+        ],
+        "substitutions": [
+            "- Remada em máquina de cabo.",
+            "- Remada com halteres.",
+            "- Remada horizontal em barra fixa (para iniciantes)."
+        ],
+        "related_muscles": [
+            "- Grandes dorsais.",
+            "- Romboides.",
+            "- Trapézio.",
+            "- Bíceps braquial.",
+            "- Músculos do core (estabilizadores)."
+        ]
+    },
+    {
+        "id": "46",
+        "name": "Exercício: Remada Vertical com Haltere em um Braço Só",
+        "level": "Novato",
+        "execution_type": "Halteres",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-single-arm-upright-row-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-single-arm-upright-row-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique de pé com os pés afastados na largura dos ombros, segurando um haltere em uma das mãos com a pegada por cima.",
+            "2. Mantenha suas costas retas e o peito erguido, envolva seu abdômen para manter o equilíbrio.",
+            "3. Comece o movimento levantando o haltere diretamente em direção ao seu queixo, mantendo o cotovelo próximo ao seu corpo e o peso alinhado com o seu ombro.",
+            "4. Continue a levantar o peso até que ele alcance o nível do queixo ou pescoço, mantendo o cotovelo elevado e próximo ao corpo.",
+            "5. Abaixe o peso de volta à posição inicial com controle."
+        ],
+        "what_is": [
+            "- Um exercício de força que envolve a remada vertical com o uso de um haltere, realizado de forma unilateral, ou seja, utilizando apenas um braço por vez.",
+            "- Focado no desenvolvimento da parte superior do corpo.."
+        ],
+        "how_to_execute": [
+            "Fique em pé, segurando um haltere em uma das mãos, com os pés na largura dos ombros.",
+            "Mantenha o tronco levemente inclinado para frente e o core contraído.",
+            "Com o braço estendido, puxe o haltere em direção ao peito, mantendo o cotovelo próximo ao corpo.",
+            "Retorne à posição inicial de forma controlada.",
+            "Repita o movimento alternando os braços ou completando uma série em cada lado."
+        ],
+        "why_do_it": [
+            "- Desenvolve força muscular na região das costas e braços.",
+            "- Melhora a estabilidade e coordenação unilateral.",
+            "- Auxilia na correção de desequilíbrios musculares entre os lados do corpo."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos ou usar cargas excessivas que comprometam a postura.",
+            "- Mantenha a coluna neutra e evite curvar as costas durante a execução.",
+            "- Preste atenção à respiração, inspirando na descida e expirando na subida."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nas articulações dos ombros ou lesões na coluna devem evitar ou adaptar o exercício.",
+            "- Não é recomendado para quem possui limitações na mobilidade dos ombros."
+        ],
+        "substitutions": [
+            "- Remada com barra ou halteres bilaterais.",
+            "- Remada baixa no cabo.",
+            "- Remada na máquina."
+        ],
+        "related_muscles": [
+            "- Grandes dorsais (latíssimo do dorso).",
+            "- Romboides.",
+            "- Trapézio.",
+            "- Bíceps braquial.",
+            "- Posterior do deltóide."
+        ]
+    },
+    {
+        "id": "47",
+        "name": "Exercício: Encolhimento com Cabo de Um Braço a 30 Graus",
+        "level": "Iniciante",
+        "execution_type": "Máquina (Cabo)",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Cables-cable-single-arm-30-degree-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Cables-cable-single-arm-30-degree-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Use um acessório de pegador. Com o acessório de cabo ajustado até o fim, na posição mais baixa.",
+            "2. Pegue uma alça e certifique-se de que você está centralizado na máquina. Deixe seu braço pendurar livremente.",
+            "3. Puxe sua omoplata para cima e em direção às suas orelhas. Deixe sua omoplata deprimir de volta à posição inicial."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício de musculação que envolve o uso de um cabo ajustado a 30 graus, com foco na execução unilateral (um braço por vez).",
+            "- O movimento é realizado em um aparelho de cabo com polia alta ou baixa, dependendo da variação.."
+        ],
+        "how_to_execute": [
+            "Ajuste a polia do cabo para formar um ângulo de 30 graus.",
+            "Posicione-se de pé, ligeiramente inclinado na direção do equipamento, mantendo os pés alinhados com os ombros.",
+            "Segure o cabo com uma das mãos e estenda o braço até atingir a amplitude máxima.",
+            "Contraia o músculo-alvo ao realizar o movimento de \"encolhimento\" ou puxada, controlando a tensão.",
+            "Retorne à posição inicial de forma lenta e controlada.",
+            "Repita o movimento pelo número desejado de repetições e alterne o braço."
+        ],
+        "why_do_it": [
+            "- Promove o desenvolvimento muscular unilateral, corrigindo possíveis assimetrias.",
+            "- Permite maior isolamento dos músculos-alvo devido ao ângulo específico.",
+            "- Melhora a estabilidade e coordenação motora.",
+            "- Oferece variedade ao treino, aumentando o estímulo neuromuscular."
+        ],
+        "precautions": [
+            "- Mantenha a postura corporal adequada para evitar compensações.",
+            "- Evite movimentos bruscos ou uso excessivo de momentum.",
+            "- Certifique-se de que o peso selecionado permite a execução técnica correta.",
+            "- Respeite os limites articulares para prevenir lesões."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nos ombros, cotovelos ou punhos devem evitar este exercício ou consultá-lo com um profissional.",
+            "- Não é recomendado para iniciantes sem orientação adequada.",
+            "- Pessoas com histórico de lesões musculares relacionadas ao movimento podem precisar adaptar o exercício."
+        ],
+        "substitutions": [
+            "- Remada unilateral com halter.",
+            "- Elevação lateral com halter.",
+            "- Puxada com barra ou triângulo em polia alta.",
+            "- Encolhimento com barra ou halteres bilaterais."
+        ],
+        "related_muscles": [
+            "- Primários : Deltóide posterior, deltóide lateral.",
+            "- Secundários : Trapézio, romboides, bíceps braquial.",
+            "- Estabilizadores : Músculos do core, rotadores do ombro."
+        ]
+    },
+    {
+        "id": "48",
+        "name": "Exercício: Encolhimento de Ombros com Peso Corporal",
+        "level": "Intermediário",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-bodyweight-pike-shrug-front.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-bodyweight-pike-shrug-side.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Comece na posição de prancha e levante seus quadris em direção ao teto.",
+            "2. Abaixe lentamente o seu corpo (escápula) mantendo os cotovelos travados (isso é essencial)",
+            "3. Levante seu corpo lentamente de volta à posição inicial."
+        ],
+        "what_is": [
+            "- Consiste em um movimento de elevação dos ombros contra a resistência do próprio peso corporal.",
+            "- O objetivo é trabalhar a musculatura da região superior do corpo, especialmente os músculos responsáveis pela elevação escapular.."
+        ],
+        "how_to_execute": [
+            "Posicione-se de pé ou sentado, mantendo a coluna alinhada e os braços relaxados ao lado do corpo.",
+            "Eleve os ombros em direção às orelhas, como se tentasse encostá-los nelas.",
+            "Mantenha a posição por 1-2 segundos no ponto máximo da contração.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Fortalece os músculos da cintura escapular.",
+            "- Melhora a estabilidade e postura corporal.",
+            "- Pode ser utilizado como parte de um aquecimento para ativar a musculatura antes de exercícios mais intensos."
+        ],
+        "precautions": [
+            "- Evite realizar o movimento com tensão excessiva no pescoço.",
+            "- Mantenha o core ativado para evitar sobrecarga na região lombar.",
+            "- Execute o movimento de forma controlada, sem balançar o corpo."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas cervicais ou lesões nos ombros devem evitar ou adaptar o exercício.",
+            "- Consulte um profissional de saúde antes de iniciar qualquer programa de exercícios, especialmente se houver condições pré-existentes."
+        ],
+        "substitutions": [
+            "- Elevações de ombros com halteres ou barras.",
+            "- Remada alta com cabo ou elástico.",
+            "- Encolhimentos isométricos contra uma parede."
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente a porção superior).",
+            "- Levantador da escápula.",
+            "- Romboides.",
+            "- Peitoral menor (estabilizador)."
+        ]
+    },
+    {
+        "id": "49",
+        "name": "Exercício: Flexão dos Ombros e Extensões Torácicas",
+        "level": "Novato",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-thoracic-extensions-via-shoulder-flexion-foam-roller-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-thoracic-extensions-via-shoulder-flexion-foam-roller-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Coloque um rolo de espuma ou meio tubo no chão, paralelo ao seu corpo.",
+            "2. Deite-se no rolo de modo que toda a sua coluna e pescoço estejam apoiados.",
+            "3. Joelhos dobrados e no chão, parte inferior das costas apoiada no tubo e queixo recolhido.",
+            "4. Traga seus braços para junto dos quadris e puxe os ombros para trás.",
+            "5. Esta é sua posição inicial. Levante os braços e abaixe-os de volta em direção ao chão acima da sua cabeça."
+        ],
+        "what_is": [
+            "- Movimento que combina a flexão dos ombros e a extensão da coluna torácica, frequentemente utilizado para melhorar a mobilidade e fortalecer músculos específicos.",
+            "- Pode ser realizado com ou sem equipamentos.."
+        ],
+        "how_to_execute": [
+            "Posicione-se de forma estável, seja em pé, sentado ou com apoio em um banco.",
+            "Inicie com os braços estendidos ao longo do corpo ou em posição pré-determinada.",
+            "Eleve os braços à frente ou lateralmente enquanto estende a coluna torácica, criando uma leve curvatura para trás.",
+            "Retorne à posição inicial de forma controlada.",
+            "Repita conforme orientação."
+        ],
+        "why_do_it": [
+            "- Melhora a postura.",
+            "- Fortalece músculos envolvidos na estabilização da coluna.",
+            "- Aumenta a amplitude de movimento nos ombros.",
+            "- Auxilia na prevenção de lesões relacionadas à má postura."
+        ],
+        "precautions": [
+            "- Evite arquear excessivamente a coluna lombar.",
+            "- Mantenha o core ativado para proteger a região abdominal.",
+            "- Não force o movimento além da capacidade articular.",
+            "- Respeite limitações individuais."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas graves na coluna vertebral (hérnia discal, fraturas).",
+            "- Lesões recentes ou cirurgias no ombro.",
+            "- Dores agudas ou desconforto durante o movimento.",
+            "- Consulte um profissional antes de iniciar, caso tenha condições médicas pré-existentes."
+        ],
+        "substitutions": [
+            "- Flexão de ombros com halteres.",
+            "- Extensão torácica em bola suíça.",
+            "- Movimentos de alongamento dinâmico para ombros.",
+            "- Exercícios isométricos para fortalecimento."
+        ],
+        "related_muscles": [
+            "- Deltoide (ombros).",
+            "- Trapézio.",
+            "- Romboides.",
+            "- Músculos eretores da espinha.",
+            "- Peitorais (em menor grau)."
+        ]
+    },
+    {
+        "id": "50",
+        "name": "Exercício: Extensões Torácicas com Rolo de Espuma",
+        "level": "Novato",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-thoracic-extensions-foam-roller-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-thoracic-extensions-foam-roller-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Coloque um rolo de espuma no chão, perpendicular ao seu corpo.",
+            "2. Sente-se e deite-se sobre o rolo, procurando fazer com que a parte média das suas costas entre em contato com ele.",
+            "3. Incline suavemente seus quadris para trás, contraia os glúteos e ative o core para proteger a região lombar.",
+            "4. Apoie a cabeça nas palmas das mãos, cotovelos virados para dentro. Levante ligeiramente os quadris do chão."
+        ],
+        "what_is": [
+            "- Trata-se de um exercício de mobilidade e alongamento que utiliza um rolo de espuma para promover a extensão da coluna torácica.",
+            "- A prática visa melhorar a flexibilidade e a postura, atuando diretamente na região média das costas.."
+        ],
+        "how_to_execute": [
+            "Deite com as costas apoiadas no rolo de espuma, posicionando-o na altura da parte superior das escápulas.",
+            "Dobre os joelhos e mantenha os pés apoiados no chão, garantindo estabilidade.",
+            "Coloque as mãos atrás da cabeça ou cruzadas sobre o peito para suporte.",
+            "Incline lentamente a cabeça para trás, permitindo que a coluna torácica se estenda sobre o rolo.",
+            "Retorne à posição inicial e deslize o corpo para reposicionar o rolo em diferentes pontos da coluna torácica, repetindo o movimento."
+        ],
+        "why_do_it": [
+            "- Melhora a mobilidade da coluna torácica.",
+            "- Auxilia na correção de posturas inadequadas, como cifose.",
+            "- Reduz tensões musculares acumuladas na região.",
+            "- Prepara o corpo para atividades que exigem amplitude de movimento."
+        ],
+        "precautions": [
+            "- Evite realizar o movimento com velocidade excessiva para prevenir lesões.",
+            "- Mantenha o core levemente contraído para proteger a coluna lombar.",
+            "- Não force a extensão além do conforto, respeitando os limites articulares."
+        ],
+        "restrictions": [
+            "- Indivíduos com osteoporose ou problemas graves na coluna vertebral devem evitar este exercício.",
+            "- Pessoas com hérnia de disco ou dor aguda na região torácica ou lombar precisam consultar um profissional antes de praticar.",
+            "- Gestantes devem buscar orientação médica antes de iniciar."
+        ],
+        "substitutions": [
+            "- Alongamento da coluna torácica com fita suspensa.",
+            "- Exercícios de extensão da coluna utilizando uma bola suíça.",
+            "- Mobilizações manuais realizadas por fisioterapeutas."
+        ],
+        "related_muscles": [
+            "- Músculos paravertebrais (eretores da espinha).",
+            "- Músculos intercostais.",
+            "- Peitoral maior e menor.",
+            "- Trapézio e romboides.",
+            "- Músculos abdominais (estabilizadores)."
+        ]
+    },
+    {
+        "id": "51",
+        "name": "Exercício: Alongamento Sentado do Trapézio Superior e Supraespinhal",
+        "level": "Novato",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-upper-trap-and-suprispinatus-stretch-seated-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-upper-trap-and-suprispinatus-stretch-seated-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Sente-se no dorso da sua mão.",
+            "2. Endireite as costas e puxe os ombros para trás.",
+            "3. Incline a cabeça para o lado oposto."
+        ],
+        "what_is": [
+            "- É um exercício de alongamento que visa relaxar e esticar os músculos do trapézio superior e do supraespinhal, localizados na região do pescoço, ombros e parte superior das costas.",
+            "- Indicado para aliviar tensões musculares acumuladas.."
+        ],
+        "how_to_execute": [
+            "Sente-se em uma cadeira com as costas eretas e os pés apoiados no chão.",
+            "Coloque uma das mãos sobre a cabeça, aplicando leve pressão lateral para inclinar o pescoço em direção ao ombro oposto.",
+            "Mantenha o ombro do lado que está sendo alongado relaxado e evite levantá-lo.",
+            "Segure a posição por 20 a 30 segundos e retorne à posição inicial.",
+            "Repita do outro lado."
+        ],
+        "why_do_it": [
+            "- Reduz a tensão muscular causada por posturas inadequadas ou estresse.",
+            "- Melhora a mobilidade da articulação do ombro e pescoço.",
+            "- Auxilia na prevenção de desconfortos e dores relacionadas ao uso excessivo desses músculos."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos ou forçar o alongamento além do conforto.",
+            "- Não execute o exercício se sentir dor intensa ou desconforto anormal.",
+            "- Mantenha a coluna neutra durante o movimento."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões graves no pescoço, ombro ou coluna devem evitar este alongamento.",
+            "- Pessoas com problemas como hérnia de disco cervical ou pinçamentos nervosos devem consultar um profissional antes de realizar."
+        ],
+        "substitutions": [
+            "- Alongamento de pescoço com rotação suave.",
+            "- Alongamento de ombro com auxílio de uma toalha.",
+            "- Posturas de ioga, como a \"Postura da Cobra\", para alongar a região superior das costas."
+        ],
+        "related_muscles": [
+            "- Trapézio superior",
+            "- Supraespinhal",
+            "- Escalenos",
+            "- Peitoral menor (indiretamente)",
+            "- Romboides (indiretamente)"
+        ]
+    },
+    {
+        "id": "52",
+        "name": "Exercício: Flexão e Extensão Torácica",
+        "level": "Novato",
+        "execution_type": "Peso Corporal",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-thoracic-flexion-and-extensions-mobility-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-thoracic-flexion-and-extensions-mobility-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Coloque-se sobre as quatro patas. Empurre o chão para longe de você, arqueando as costas e os ombros o máximo possível.",
+            "2. Para melhorar a flexão da coluna, puxe o umbigo para dentro e encaixe o cóccix. Mantenha essa posição por um breve momento.",
+            "3. Agora faça exatamente o oposto, tente curvar a coluna para trás. Alterne entre essas posições."
+        ],
+        "what_is": [
+            "- Movimento que envolve a flexão (curvatura para frente) e extensão (retorno à posição inicial ou inclinação para trás) da coluna torácica.",
+            "- Visa promover mobilidade e fortalecimento dessa região.."
+        ],
+        "how_to_execute": [
+            "Posição inicial : De pé, sentado ou em quadrupedia.",
+            "Inspire enquanto estende o tronco para trás, abrindo o peito.",
+            "Expire ao flexionar a coluna, curvando-a para frente.",
+            "Repita de forma controlada, respeitando o limite articular."
+        ],
+        "why_do_it": [
+            "- Melhora a postura.",
+            "- Aumenta a mobilidade torácica.",
+            "- Previne rigidez e desconforto na região central da coluna.",
+            "- Promove alívio de tensões musculares."
+        ],
+        "precautions": [
+            "- Evite movimentos bruscos ou exagerados.",
+            "- Mantenha o core ativado para proteger a lombar.",
+            "- Respeite a amplitude articular individual."
+        ],
+        "restrictions": [
+            "- Dores agudas ou lesões na coluna vertebral.",
+            "- Hérnias de disco não tratadas.",
+            "- Condições inflamatórias ativas ou instabilidade vertebral."
+        ],
+        "substitutions": [
+            "- Rotações torácicas.",
+            "- Alongamento de flexores e extensores da coluna.",
+            "- Exercícios com fita elástica para mobilidade."
+        ],
+        "related_muscles": [
+            "- Primários : Erectores da espinha, músculos intercostais, reto abdominal.",
+            "- Secundários : Trapézio, romboides, serrátil anterior, oblíquos do abdômen."
+        ]
+    },
+    {
+        "id": "53",
+        "name": "Exercício: Remada Vertical com Elástico",
+        "level": "Avançado",
+        "execution_type": "Faixa Elástica",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-upright-row-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-upright-row-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Fique em pé com um ou ambos os pés em uma das extremidades da faixa elástica. Segure-a com as duas mãos, com um grip mais largo que a largura dos ombros.",
+            "2. Puxe seus cotovelos diretamente para cima, em direção ao teto. Tente levar a faixa até o nível do queixo ou um pouco mais alto."
+        ],
+        "what_is": [
+            "- É um exercício de força que utiliza um elástico como resistência para trabalhar a musculatura da parte superior do corpo.",
+            "- Ele simula o movimento de uma remada, focando nos músculos das costas e braços.."
+        ],
+        "how_to_execute": [
+            "Fixe o elástico em um ponto estável à sua frente, na altura do peito.",
+            "Fique em posição ereta, segurando as extremidades do elástico com as palmas voltadas uma para a outra.",
+            "Mantenha os pés firmes no chão e os joelhos levemente flexionados.",
+            "Puxe o elástico em direção ao abdômen, contraindo as costas e mantendo os cotovelos próximos ao corpo.",
+            "Retorne à posição inicial de forma controlada."
+        ],
+        "why_do_it": [
+            "- Fortalece a musculatura das costas.",
+            "- Melhora a postura corporal.",
+            "- Auxilia no desenvolvimento da força e estabilidade dos ombros.",
+            "- Pode ser realizado em casa ou em espaços reduzidos."
+        ],
+        "precautions": [
+            "- Evite arquear as costas durante o movimento.",
+            "- Certifique-se de que o elástico esteja bem fixado para evitar escorregamentos.",
+            "- Não use cargas excessivas que comprometam a execução correta.",
+            "- Mantenha o core ativado para proteger a coluna."
+        ],
+        "restrictions": [
+            "- Indivíduos com problemas nos ombros ou na coluna devem consultar um profissional antes de realizar.",
+            "- Gestantes ou pessoas com lesões recentes devem evitar ou adaptar o exercício."
+        ],
+        "substitutions": [
+            "- Remada com halteres.",
+            "- Remada baixa no cabo.",
+            "- Remada articulada com barra."
+        ],
+        "related_muscles": [
+            "- Grande dorsal.",
+            "- Romboides.",
+            "- Trapézio.",
+            "- Bíceps.",
+            "- Posterior do deltóide."
+        ]
+    },
+    {
+        "id": "54",
+        "name": "Exercício: Elevação de Ombros em Máquina",
+        "level": "Novato",
+        "execution_type": "Máquina",
+        "videos": [
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-shrug-side.mp4#t=0.1",
+            "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-shrug-front.mp4#t=0.1"
+        ],
+        "tips": [
+            "1. Pegue ambos os cabos e fique em pé. Certifique-se de manter as costas retas enquanto levanta até a posição inicial.",
+            "2. Puxe suas omoplatas diretamente para cima em direção ao teto."
+        ],
+        "what_is": [
+            "- Consiste em um exercício de isolamento que visa trabalhar os músculos da região superior das costas e ombros, utilizando uma máquina específica para proporcionar resistência controlada."
+        ],
+        "how_to_execute": [
+            "Sente-se ou posicione-se corretamente na máquina, ajustando o banco e os apoios de acordo com sua altura.",
+            "Posicione as mãos nos pegadores ou apoios designados, mantendo os braços estendidos ou levemente flexionados.",
+            "Eleve os ombros em direção às orelhas, contraindo os músculos-alvo.",
+            "Retorne à posição inicial de forma controlada, sem relaxar completamente a tensão."
+        ],
+        "why_do_it": [
+            "- Desenvolve força e definição muscular na região dos ombros e trapézio.",
+            "- Contribui para melhorar a postura e estabilização da área cervical e escapular.."
+        ],
+        "precautions": [
+            "- Evite usar pesos excessivos que comprometam a execução técnica.",
+            "- Mantenha o core ativado para proteger a coluna durante o movimento.",
+            "- Evite movimentos bruscos ou balanços corporais."
+        ],
+        "restrictions": [
+            "- Indivíduos com lesões prévias no pescoço, ombros ou coluna devem evitar ou adaptar o exercício.",
+            "- Consulte um profissional de saúde antes de incluí-lo na rotina.."
+        ],
+        "substitutions": [
+            "- Elevações com halteres",
+            "- Remada alta com barra ou halteres",
+            "- Encolhimento de ombros com cabo"
+        ],
+        "related_muscles": [
+            "- Trapézio (principalmente porção superior)",
+            "- Elevador da escápula",
+            "- Romboides",
+            "- Pequenos músculos estabilizadores do ombro"
+        ]
+    }
+]
