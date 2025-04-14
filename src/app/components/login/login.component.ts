@@ -65,15 +65,10 @@ export class LoginComponent implements OnInit {
   
       if (isPlatformBrowser(this.platformId)) {
         if (email) {
-          console.log('Salvando email no localStorage:', email);
           localStorage.setItem('savedEmail', email); // Salva o email
         } else {
-          console.log('Opção "Lembrar-me" desmarcada ou email inválido. Não salvando.');
         }
-  
-        // Verifica novamente o valor salvo
         const savedEmail = localStorage.getItem('savedEmail');
-        console.log('Email atual no localStorage:', savedEmail);
       }
   
       console.log('Redirecionando para /dashboard');

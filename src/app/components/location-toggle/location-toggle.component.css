@@ -1,0 +1,100 @@
+/* location-toggle.component.css */
+.location-toggle {
+  position: relative;
+  margin-right: 15px;
+}
+
+.location-prompt {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background-color: white;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.location-prompt:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.location-prompt.active {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.location-icon svg {
+  width: 18px;
+  height: 18px;
+  fill: var(--dark);
+}
+
+.location-switch {
+  width: 32px;
+  height: 18px;
+  border-radius: 9px;
+  background-color: var(--secondary);
+  position: relative;
+  transition: background-color 0.3s ease;
+}
+
+.location-prompt.active .location-switch {
+  background-color: var(--secondary);
+}
+
+.switch-dot {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background-color: var(--white);
+  top: 2px;
+  left: 2px;
+  transition: transform 0.3s ease;
+}
+
+.location-prompt.active .switch-dot {
+  transform: translateX(14px);
+}
+
+.location-feedback {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 8px;
+  z-index: 1000;
+  min-width: 200px;
+  animation: fadeIn 0.3s ease;
+}
+
+.feedback-message {
+  padding: 8px 12px;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  font-size: 0.85rem;
+}
+
+.feedback-message.error {
+  color: var(--error);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .location-toggle {
+    margin-right: 0;
+    width: 100%;
+  }
+  
+  .location-prompt {
+    justify-content: space-between;
+    width: 100%;
+  }
+}

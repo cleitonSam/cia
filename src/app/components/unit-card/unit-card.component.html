@@ -1,0 +1,28 @@
+<div class="unit-card">
+    <div class="unit-image">
+      <img [src]="unit.image" [alt]="unit.name">
+      <div class="unit-badge">{{ unit.badgeText }}</div>
+    </div>
+    
+    <div class="unit-content">
+      <h3>{{ unit.name }}</h3>
+      <p class="unit-address">
+        <i class="fas fa-map-marker-alt"></i> {{ unit.address }}, {{ unit.district }}
+      </p>
+      
+      <div class="unit-features">
+        <span *ngFor="let feature of unit.features">
+          <i [class]="feature.icon"></i> {{ feature.text }}
+        </span>
+      </div>
+      
+      <div class="unit-actions">
+        <button class="btn-details" (click)="viewDetails()">
+          <i class="fas fa-info-circle"></i> Ver Detalhes
+        </button>
+        <button class="btn-subscribe" (click)="subscribeNow()">
+          <i class="fas fa-check"></i> Assinar Agora
+        </button>
+      </div>
+    </div>
+  </div>

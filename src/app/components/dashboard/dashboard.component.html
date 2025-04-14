@@ -1,13 +1,1 @@
-<div *ngIf="position">
-  </div>
-  <button (click)="getLocation()">Obter Localização</button>
-
-  <div *ngIf="nearestUnits.length">
-    <h3>Unidades Mais Próximas</h3>
-    <ul>
-      <li *ngFor="let unit of nearestUnits">
-        {{ unit.name }} - {{ unit.distance }} metros
-      </li>
-    </ul>
-  </div>
-  <button (click)="findNearest()">Encontrar Unidades Próximas</button>
+<app-unidades [userPosition]="userPosition"></app-unidades>

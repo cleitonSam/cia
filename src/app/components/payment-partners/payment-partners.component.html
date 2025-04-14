@@ -1,0 +1,14 @@
+ <div class="partners-banner">
+    <div class="banner-container" [class.rotating]="isRotating">
+      <div class="partner-card" *ngFor="let partner of partners; let i = index" 
+           [class.active]="currentIndex === i">
+        <img [src]="partner.image" [alt]="partner.alt" [ngClass]="partner.class">
+        <div class="partner-info">
+          <h3>{{ partner.title }}</h3>
+          <p>{{ partner.description }}</p>
+        </div>
+      </div>
+    </div>
+    
+    
+  </div>

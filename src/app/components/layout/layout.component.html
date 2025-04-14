@@ -1,4 +1,25 @@
-<app-navbar *ngIf="isLoggedIn"></app-navbar>
+<app-navbar *ngIf="isLoggedIn" (positionFound)="onPositionFound($event)"></app-navbar>
+
 <div class="content">
+ 
+  <!-- Banner -->
+  <div class="fitness-banner">
+    
+    <div class="banner-content">
+      <div class="banner-text">
+        
+        <h1>TRANSFORME SEU CORPO NA <span class="text-highlight">CIA MEGA FITNESS</span></h1>
+        <p>Equipamentos modernos, instrutores qualificados e o melhor ambiente para você evoluir</p>
+        <div class="banner-cta">
+          <button class="banner-btn">Matricule-se Já</button>
+        </div>
+      </div>
+      <div class="banner-image">
+        <img src="../assets/2021-08-06.webp" alt="Academia CIA MEGA FITNESS">
+      </div>
+    </div>
+  </div>
+  <app-payment-partners></app-payment-partners>
   <router-outlet></router-outlet>
+  <app-whatsapp-float></app-whatsapp-float>
 </div>

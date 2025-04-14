@@ -1,0 +1,14 @@
+.units-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 30px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .units-container {
+    grid-template-columns: 1fr;
+  }
+}

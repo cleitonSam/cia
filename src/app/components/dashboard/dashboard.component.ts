@@ -1,58 +1,27 @@
-import { Component } from '@angular/core';
+import { Component, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { GeolocationService } from '../../services/geolocation.service';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { DistanceService } from '../../services/distance.service';
+import { UnitCardComponent } from '../unit-card/unit-card.component';
+import { UnidadesComponent } from "../unidades/unidades.component";
+import { HttpClientModule } from '@angular/common/http';
+import { UnidadeService } from '../../services/unidade.service';
 
 @Component({
   selector: 'app-dashboard',
   standalone: true,
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, UnidadesComponent, HttpClientModule],
   templateUrl: './dashboard.component.html',
-  styleUrl: './dashboard.component.css'
+  styleUrl: './dashboard.component.css',
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
+   providers: [UnidadeService],
 })
 export class DashboardComponent {
-  position: GeolocationPosition | null = null;
-  nearestUnits: { name: string; distance: number }[] = [];
+  userPosition: GeolocationPosition | null = null;
 
-  constructor(private geolocationService: GeolocationService,  private distanceService: DistanceService) {}
-
-  findNearest(): void {
-    const units = [
-      { name: 'Unidade Vila Ema', latitude: -23.5962868, longitude: -46.5277673 },
-      { name: 'Unidade Centro', latitude: -23.55052, longitude: -46.633308 },
-      { name: 'Unidade Moema', latitude: -23.60881, longitude: -46.67144 },
-    ];
-
-    this.geolocationService.getCurrentPosition().then(
-      (position) => {
-        const userLocation = {
-          latitude: position.coords.latitude,
-          longitude: position.coords.longitude,
-        };
-
-        this.nearestUnits = this.distanceService.findNearestUnits(userLocation, units);
-      },
-      (error) => {
-        console.error('Erro ao obter localização:', error);
-      }
-    );
-  }
-
-  getLocation(): void {
-    this.geolocationService.getCurrentPosition().then(
-      (position) => {
-        if (position && position.coords) {
-          this.position = position;
-         
-        } else {
-          console.error('A posição ou coordenadas são inválidas.');
-        }
-      },
-      (error) => {
-        console.error('Erro ao obter localização:', error);
-      }
-    );
+  onPositionFound(position: GeolocationPosition): void {
+    this.userPosition = position;
   }
 }
 
