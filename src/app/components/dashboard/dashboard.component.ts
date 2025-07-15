@@ -1,9 +1,7 @@
 import { Component, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
-import { GeolocationService } from '../../services/geolocation.service';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { DistanceService } from '../../services/distance.service';
-import { UnitCardComponent } from '../unit-card/unit-card.component';
+
 import { UnidadesComponent } from "../unidades/unidades.component";
 import { HttpClientModule } from '@angular/common/http';
 import { UnidadeService } from '../../services/unidade.service';
