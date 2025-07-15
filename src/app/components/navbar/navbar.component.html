@@ -23,11 +23,5 @@
   <!-- Localização e Logout -->
   <div class="navbar-right">
     <app-location-toggle (positionFound)="onPositionFound($event)"></app-location-toggle>
-    <button class="btn-logout" (click)="logout()">
-      <svg class="logout-icon" viewBox="0 0 24 24">
-        <path d="M14 8V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h7a2 2 0 0 0 2-2v-2h-2v2H5V6h7v2h2zm-5 4l4 4m0 0l-4 4m4-4H3"/>
-      </svg>
-      Sair
-    </button>
   </div>
 </nav>
