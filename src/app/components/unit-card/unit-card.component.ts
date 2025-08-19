@@ -14,9 +14,14 @@ export class UnitCardComponent {
   @Input() distance: number | null = null;
   @Output() onViewDetails = new EventEmitter<any>();
 
-  viewDetails(): void {
+// unit-card.component.ts
+viewDetails(): void {
+  if (this.unit.number) {
+    window.open(this.unit.number, '_blank');
+  } else {
     this.onViewDetails.emit(this.unit);
   }
+}
 
   subscribeNow(): void {
     if (this.unit.link) {

@@ -1,33 +1,21 @@
 <div class="lista-unidades-container">
   <div class="filters-container">
-    <div class="search-container">
-      <input
-        type="text"
-        [(ngModel)]="termoBusca"
-        (input)="filtrarUnidades()"
-        placeholder="Buscar unidade por nome..."
-        class="search-input"
-      >
-      <i class="search-icon">🔍</i>
-    </div>
-    
-    <div class="modality-filter">
-      <select 
-        [(ngModel)]="modalidadeSelecionada" 
-        (change)="filtrarUnidades()"
-        class="modality-select"
-      >
-        <option value="">Todas as modalidades</option>
-        <option *ngFor="let mod of modalidadesDisponiveis" [value]="mod">
-          {{ mod }}
-        </option>
-      </select>
-    </div>
+  <div class="search-container">
+    <i class="search-icon">🔍</i>
+    <input
+      type="text"
+      [(ngModel)]="termoBusca"
+      (input)="filtrarUnidades()"
+      placeholder="Buscar unidade por nome..."
+      class="search-input"
+    >
+    <div class="input-border"></div>
+  </div>
+  
+ 
 
-    <app-location-toggle
-      (positionFound)="updateUserPosition($event)"
-      (positionError)="locationError = $event">
-    </app-location-toggle>
+
+    
   </div>
 
   <div *ngIf="locationError" class="error-message">
