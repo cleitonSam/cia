@@ -1,25 +1,25 @@
-<app-navbar  (positionFound)="onPositionFound($event)"></app-navbar>
+<header>
+  <app-navbar (positionFound)="onPositionFound($event)" aria-label="Navegação principal"></app-navbar>
+</header>
 
-<div class="content">
- 
+<main class="content">
   <!-- Banner -->
-  <div class="fitness-banner">
-    
+  <section class="fitness-banner" aria-labelledby="banner-heading">
     <div class="banner-content">
       <div class="banner-text">
-        
-        <h1>TRANSFORME SEU CORPO NA <span class="text-highlight">CIA MEGA FITNESS</span></h1>
+        <h1 id="banner-heading">TRANSFORME SEU CORPO NA <span class="text-highlight">CIA MEGA FITNESS</span></h1>
         <p>Equipamentos modernos, instrutores qualificados e o melhor ambiente para você evoluir</p>
         <div class="banner-cta">
-          <button class="banner-btn">Matricule-se Já</button>
+          <button class="banner-btn" aria-label="Matricule-se agora na CIA MEGA FITNESS">Matricule-se Já</button>
         </div>
       </div>
       <div class="banner-image">
-        <img src="../assets/2021-08-06.webp" alt="Academia CIA MEGA FITNESS">
+        <img src="../assets/2021-08-06.webp" alt="Academia CIA MEGA FITNESS equipada com aparelhos modernos e pessoas malhando" loading="lazy">
       </div>
     </div>
-  </div>
-  <app-payment-partners></app-payment-partners>
+  </section>
+  
+  <app-payment-partners aria-label="Formas de pagamento aceitas"></app-payment-partners>
   <router-outlet></router-outlet>
-  <app-whatsapp-float></app-whatsapp-float>
-</div>
+  <app-whatsapp-float aria-label="Contato via WhatsApp"></app-whatsapp-float>
+</main>
