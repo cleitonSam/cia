@@ -9,10 +9,11 @@ import { LocationToggleComponent } from '../location-toggle/location-toggle.comp
   standalone: true,
   imports: [CommonModule, FormsModule, LocationToggleComponent],
   templateUrl: './navbar.component.html',
-  styleUrl: './navbar.component.css'
+  styleUrls: ['./navbar.component.css']
 })
 export class NavbarComponent {
-  @Output() positionFound = new EventEmitter<GeolocationPosition>();
+  // Atualizado para aceitar null
+  @Output() positionFound = new EventEmitter<GeolocationPosition | null>();
 
   constructor(private router: Router) {}
 
@@ -27,8 +28,9 @@ export class NavbarComponent {
     this.router.navigate(['/login']);
   }
 
-  onPositionFound(position: GeolocationPosition): void {
+  // Atualizado para aceitar null
+  onPositionFound(position: GeolocationPosition | null): void {
     this.positionFound.emit(position);
-    console.log(position)
+    console.log(position);
   }
 }

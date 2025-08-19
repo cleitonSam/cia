@@ -1,23 +1,19 @@
-import { Component, CUSTOM_ELEMENTS_SCHEMA, OnInit } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { UnidadeService } from '../../services/unidade.service';
 import { UnitCardComponent } from '../unit-card/unit-card.component';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
-import { HttpClientModule } from '@angular/common/http';
 import { GeolocationService } from '../../services/geolocation.service';
-
+import { LocationToggleComponent } from '../location-toggle/location-toggle.component';
 
 @Component({
   selector: 'app-unidades',
   standalone: true,
-  imports: [UnitCardComponent, FormsModule, CommonModule, HttpClientModule],
+  imports: [UnitCardComponent, FormsModule, CommonModule, LocationToggleComponent],
   templateUrl: './unidades.component.html',
-  styleUrl: './unidades.component.css',
-  schemas: [CUSTOM_ELEMENTS_SCHEMA],
-  providers: [UnidadeService],
+  styleUrls: ['./unidades.component.css']
 })
-export class UnidadesComponent implements OnInit {
-  userPosition: GeolocationPosition | null = null;
+export class UnidadesComponent implements OnInit, OnDestroy {
   unidades: any[] = [];
   unidadesFiltradas: any[] = [];
   modalidadesDisponiveis: string[] = [];
@@ -25,6 +21,8 @@ export class UnidadesComponent implements OnInit {
   loading = true;
   error: string | null = null;
   termoBusca = '';
+  locationError: string | null = null;
+  private watchId: number | null = null;
 
   constructor(
     private unidadeService: UnidadeService,
@@ -33,13 +31,18 @@ export class UnidadesComponent implements OnInit {
 
   ngOnInit(): void {
     this.carregarUnidades();
+    this.startWatchingPosition();
+  }
+
+  ngOnDestroy(): void {
+    this.stopWatchingPosition();
   }
 
   carregarUnidades(): void {
     this.unidadeService.getUnidades().subscribe({
       next: (unidades) => {
         this.unidades = unidades;
-        this.unidadesFiltradas = [...this.unidades];
+        this.unidadesFiltradas = [...unidades];
         this.carregarModalidades();
         this.loading = false;
       },
@@ -51,44 +54,62 @@ export class UnidadesComponent implements OnInit {
     });
   }
 
-  
-
   carregarModalidades(): void {
-    // Extrai todas as modalidades únicas das unidades
     const todasModalidades = this.unidades
-      .map(u => u.modalidade.split(', ')) // Divide strings como "Dança, zumba" em array
-      .flat() // Achata o array de arrays
-      .map(m => m.trim()) // Remove espaços em branco
-      .filter(m => m.length > 0); // Remove strings vazias
+      .flatMap(u => u.modalidade?.split(', ') || [])
+      .map(m => m.trim())
+      .filter(m => m.length > 0);
 
-    // Remove duplicatas e ordena
     this.modalidadesDisponiveis = [...new Set(todasModalidades)].sort();
   }
 
-  updateUserPosition(position: GeolocationPosition): void {
-    this.userPosition = position;
-    this.filtrarUnidades(); // Reaplica o filtro e ordena por proximidade
+  startWatchingPosition(): void {
+    this.watchId = this.geolocationService.watchPosition(
+      position => this.updateUserPosition(position),
+      error => {
+        this.locationError = error;
+        this.unidadesFiltradas = [...this.unidadesFiltradas];
+      }
+    );
   }
 
-  ordenarPorProximidade(): void {
-    if (!this.userPosition || this.unidadesFiltradas.length === 0) return;
-
-    const userLat = this.userPosition.coords.latitude;
-    const userLng = this.userPosition.coords.longitude;
-
-    this.unidadesFiltradas = this.unidadesFiltradas.map(unidade => {
-      const distance = this.calcularDistancia(
-        userLat,
-        userLng,
-        unidade.latitude,
-        unidade.longitude
-      );
-      return { ...unidade, distance };
-    }).sort((a, b) => a.distance - b.distance);
+  stopWatchingPosition(): void {
+    if (this.watchId !== null) {
+      this.geolocationService.clearWatch(this.watchId);
+      this.watchId = null;
+    }
   }
+
+  updateUserPosition(position: GeolocationPosition | null): void {
+    this.locationError = null;
+    
+    if (!position) {
+      this.unidadesFiltradas.forEach(u => delete u.distance);
+      return;
+    }
+
+    try {
+      const userLat = position.coords.latitude;
+      const userLng = position.coords.longitude;
+      
+      this.unidadesFiltradas = this.unidadesFiltradas.map(unidade => {
+        const distance = this.calcularDistancia(
+          userLat,
+          userLng,
+          unidade.latitude,
+          unidade.longitude
+        );
+        return { ...unidade, distance };
+      }).sort((a, b) => (a.distance || Infinity) - (b.distance || Infinity));
+    } catch (error) {
+      this.locationError = 'Erro ao calcular distâncias';
+      console.error(error);
+    }
+  }
+
 
   calcularDistancia(lat1: number, lon1: number, lat2: number, lon2: number): number {
-    const R = 6371e3; // Raio da Terra em metros
+    const R = 6371e3;
     const φ1 = lat1 * Math.PI / 180;
     const φ2 = lat2 * Math.PI / 180;
     const Δφ = (lat2 - lat1) * Math.PI / 180;
@@ -99,34 +120,30 @@ export class UnidadesComponent implements OnInit {
               Math.sin(Δλ / 2) * Math.sin(Δλ / 2);
     const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 
-    return Math.round(R * c); // Distância em metros
+    return Math.round(R * c);
   }
 
   filtrarUnidades(): void {
-    let unidadesFiltradas = [...this.unidades];
+    let resultados = [...this.unidades];
 
     // Filtro por modalidade
     if (this.modalidadeSelecionada) {
-      unidadesFiltradas = unidadesFiltradas.filter(unidade =>
-        unidade.modalidade.includes(this.modalidadeSelecionada)
+      resultados = resultados.filter(u => 
+        u.modalidade?.includes(this.modalidadeSelecionada)
       );
     }
 
     // Filtro por termo de busca
     if (this.termoBusca) {
-      const termoNormalizado = this.normalizarTexto(this.termoBusca.toLowerCase());
-      unidadesFiltradas = unidadesFiltradas.filter(unidade =>
-        this.normalizarTexto(unidade.name.toLowerCase()).includes(termoNormalizado) ||
-        this.normalizarTexto(unidade.address.toLowerCase()).includes(termoNormalizado) ||
-        this.normalizarTexto(unidade.district.toLowerCase()).includes(termoNormalizado)
+      const termo = this.normalizarTexto(this.termoBusca.toLowerCase());
+      resultados = resultados.filter(u =>
+        this.normalizarTexto(u.name?.toLowerCase()).includes(termo) ||
+        this.normalizarTexto(u.address?.toLowerCase()).includes(termo) ||
+        this.normalizarTexto(u.district?.toLowerCase()).includes(termo)
       );
     }
 
-    this.unidadesFiltradas = unidadesFiltradas;
-
-    if (this.userPosition) {
-      this.ordenarPorProximidade();
-    }
+    this.unidadesFiltradas = resultados;
   }
 
   normalizarTexto(texto: string): string {
@@ -134,11 +151,8 @@ export class UnidadesComponent implements OnInit {
            .replace(/[^a-zA-Z0-9]/g, '');
   }
 
-  handleViewDetails(unit: any) {
-    console.log('Ver detalhes:', unit);
-  }
-
-  handleSubscribe(unit: any) {
-    console.log('Assinar agora:', unit);
+  handleViewDetails(unit: any): void {
+    console.log('Detalhes da unidade:', unit);
+    // Aqui você pode implementar navegação para detalhes ou abrir um modal
   }
 }

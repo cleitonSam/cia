@@ -1,4 +1,3 @@
-<!-- location-toggle.component.html -->
 <div class="location-toggle">
   <div class="location-prompt" (click)="toggleLocation()" [class.active]="isActive">
     <div class="location-icon">
@@ -9,6 +8,7 @@
     <div class="location-switch">
       <div class="switch-dot"></div>
     </div>
+    <div class="loading-spinner" *ngIf="isLoading"></div>
   </div>
 
   <div class="location-feedback" *ngIf="error">

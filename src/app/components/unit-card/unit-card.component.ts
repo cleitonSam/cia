@@ -1,25 +1,33 @@
 import { CommonModule } from '@angular/common';
-import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-unit-card',
   standalone: true,
-  imports: [FormsModule, CommonModule],
+  imports: [CommonModule, FormsModule],
   templateUrl: './unit-card.component.html',
-  styleUrl: './unit-card.component.css'
+  styleUrls: ['./unit-card.component.css']
 })
 export class UnitCardComponent {
   @Input() unit: any;
-  @Input() distance: number | any = null;
+  @Input() distance: number | null = null;
   @Output() onViewDetails = new EventEmitter<any>();
-  @Output() onSubscribe = new EventEmitter<any>();
 
-  viewDetails() {
+  viewDetails(): void {
     this.onViewDetails.emit(this.unit);
   }
 
-  subscribeNow() {
-    this.onSubscribe.emit(this.unit);
+  subscribeNow(): void {
+    if (this.unit.link) {
+      window.open(this.unit.link, '_blank');
+    }
+  }
+
+  formatDistance(): string {
+    if (this.distance === null) return '';
+    return this.distance >= 1000 
+      ? `${(this.distance / 1000).toFixed(1)} km` 
+      : `${Math.round(this.distance)} m`;
   }
 }

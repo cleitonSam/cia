@@ -1,4 +1,4 @@
-import { Component, EventEmitter, Output } from '@angular/core';
+import { Component, EventEmitter, OnDestroy, Output } from '@angular/core';
 import { GeolocationService } from '../../services/geolocation.service';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
@@ -8,13 +8,15 @@ import { FormsModule } from '@angular/forms';
   standalone: true,
   imports: [CommonModule, FormsModule],
   templateUrl: './location-toggle.component.html',
-  styleUrl: './location-toggle.component.css'
+  styleUrls: ['./location-toggle.component.css']
 })
-export class LocationToggleComponent {
+export class LocationToggleComponent implements OnDestroy {
   isActive = false;
   error: string | null = null;
+  isLoading = false; // Novo estado de carregamento
 
-  @Output() positionFound = new EventEmitter<GeolocationPosition>();
+  @Output() positionFound = new EventEmitter<GeolocationPosition | null>();
+  @Output() positionError = new EventEmitter<string>();
 
   constructor(private geolocationService: GeolocationService) {}
 
@@ -22,21 +24,30 @@ export class LocationToggleComponent {
     this.isActive = !this.isActive;
     if (this.isActive) {
       this.getLocation();
+    } else {
+      this.positionFound.emit(null);
     }
   }
 
   private getLocation(): void {
     this.error = null;
+    this.isLoading = true;
     
     this.geolocationService.getCurrentPosition()
-      .then((position) => {
+      .then(position => {
         this.positionFound.emit(position);
-        console.log(position)
+        this.isLoading = false;
       })
-      .catch((error) => {
+      .catch(error => {
         this.error = error;
+        this.positionError.emit(error);
         this.isActive = false;
+        this.isLoading = false;
         setTimeout(() => this.error = null, 5000);
       });
+  }
+
+  ngOnDestroy(): void {
+    this.positionFound.emit(null);
   }
 }
